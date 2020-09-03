@@ -1,0 +1,68 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+body{
+   margin: 0;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.sidebar{
+   position: fixed;
+   width: 250px;
+   top:0;
+   left: 0;
+   bottom: 0;
+   background: #fff;
+   padding-top: 50px;
+   padding-left: 150px;
+}
+
+.sidebar .button{
+   display: block;
+   padding: 5px 80px;
+   text-decoration: none;
+   font-family: "Rubik";
+   letter-spacing: 2px;
+}
+
+.sidebar .button:hover{
+   color: #000;
+   margin-left: 20px;
+   transition: 0.2s;
+}
+
+.button{
+  display: block;
+  height: 60px;
+  width: 60px;
+  float: left;
+  margin: 0 5px;
+  overflow: hidden;
+  background: #fff;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.button .icon{
+  display: block;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  border-radius: 50px;
+  box-sizing: border-box;
+  line-height: 60px;
+}
+
+.button .icon i{
+  font-size: 25px;
+  line-height: 60px;
+}
+
+
+
