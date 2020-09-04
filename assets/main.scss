@@ -17,6 +17,8 @@ a:link {
 a:hover {
     color: #333;
     text-decoration: none;
+    border: 5px transparent #888;
+    border-radius: 35px;
 }
 
 a:visited {
@@ -27,7 +29,7 @@ a:visited {
 
 a:active {
   color: #333;
-  background-color: #transparent;
+  background-color: transparent;
   text-decoration: none;
 }
 
@@ -45,14 +47,6 @@ a:active {
   text-align: center;
   transition: all 0.3s ease-out;
 }
-
-.button .icon a{
-  transition: all 0.3s ease-out;
-}
-.button:hover .icon a{
-  color: #333;
-}
-
 
 #container{
     margin: 100px auto;
@@ -88,6 +82,8 @@ nav ul li a:hover {
     color: #333;
     background-color: #ededed;
     text-decoration: none;
+    border: 5px transparent #888;
+    border-radius: 35px;
 }
 
 nav ul li a:visited {
