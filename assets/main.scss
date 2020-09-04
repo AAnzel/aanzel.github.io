@@ -2,67 +2,155 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
 
-body{
-   margin: 0;
+img{
+    border-radius: 40%;
 }
 
-img {
-  border-radius: 50%;
+a:link {
+  color: #333;
+  background-color: transparent;
+  text-decoration: none;
 }
 
-.sidebar{
-   position: fixed;
-   width: 250px;
-   top:0;
-   left: 0;
-   bottom: 0;
-   background: #fff;
-   padding-top: 50px;
-   padding-left: 150px;
+a:hover {
+    color: #333;
+    text-decoration: none;
 }
 
-.sidebar .button{
-   display: block;
-   padding: 5px 80px;
-   text-decoration: none;
-   font-family: "Rubik";
-   letter-spacing: 2px;
+a:visited {
+  color: #333;
+  background-color: transparent;
+  text-decoration: none;
 }
 
-.sidebar .button:hover{
-   color: #000;
-   margin-left: 20px;
-   transition: 0.2s;
+a:active {
+  color: #333;
+  background-color: #transparent;
+  text-decoration: none;
 }
+
 
 .button{
   display: block;
-  height: 60px;
-  width: 60px;
-  float: left;
-  margin: 0 5px;
-  overflow: hidden;
+  color: #333;
   background: #fff;
-  border-radius: 50px;
   cursor: pointer;
+  transition: all 0.3s ease-out;
 }
 
 .button .icon{
   display: block;
-  height: 60px;
-  width: 60px;
   text-align: center;
-  border-radius: 50px;
-  box-sizing: border-box;
-  line-height: 60px;
+  transition: all 0.3s ease-out;
 }
 
-.button .icon i{
-  font-size: 25px;
-  line-height: 60px;
+.button .icon a{
+  transition: all 0.3s ease-out;
 }
+.button:hover .icon a{
+  color: #333;
+}
+
+
+#container{
+    margin: 100px auto;
+    max-width: 800px;
+    font-family: "Titillium Web";
+}
+
+nav {
+    width: 60%;
+    background-color: #fff;
+    padding: 0 30% 0 30%;
+    font-weight: bold;
+    font-size: small;
+}
+nav ul li {
+    display: inline-block;
+    padding: 15px 1.5% 15px 1.5% ;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 1.2em;
+}
+
+nav ul li a:link {
+  color: #333;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #333;
+    background-color: #ededed;
+    text-decoration: none;
+}
+
+nav ul li a:visited {
+  color: #333;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+nav ul li a:active {
+  color: #333;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+#content {
+    float: right;
+    padding: 3%;
+    width: 64%;
+}
+
+aside {
+    float: left;
+    padding: 3%;
+    width: 24%;
+    text-align: center;
+    
+}
+
+footer{
+    width: 94%;
+    padding: 3%;
+    font-size: small;
+    background-color: transparent;
+    color: #555;
+    text-align: right;
+}
+
+@media all and (max-width : 768px) {
+    header {
+        text-align: center;
+    }
+    nav {
+        text-align: center;
+    }
+    #content {
+        width: 94%;
+        padding: 3%;
+    }
+    #sidebar {
+        width: 94%;
+        padding: 3%;
+    }
+}
+
+@media all and (max-width : 330px) {
+    nav ul li {
+        display:block;
+        width: 94%;
+    }
+}
+
+
 
 
 

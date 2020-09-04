@@ -8,39 +8,54 @@
   </head>
 
   <body>
+    
+    <div id="container">
+    <!-- Navigation -->
+    <nav id="menu" class="clearfix">
+        <ul>
+		<li><a class="active" href="#">ABOUT</a></li>
+		<li><a href="#">RESEARCH</a></li>
+		<li><a href="#">DRAWINGS</a></li>
+		<li><a href="cv.html">CV</a></li>
+        </ul>
+    </nav> 
+    <!-- Main Content area -->
 
-    {%- include header.html -%}
-    <div class="sidebar">
+    <section id="content">
+    
+    A recent graduate of The Faculty of Mathematics, University of Belgrade with a Master's degree in Mathematics, module Computer Science and Informatics. Interested into applying Machine Learning in Computational and Systems Biology.
+
+    </section>
+
+    <!-- Sidebar -->
+
+    <aside  id="sidebar">
+        <img src="../assets/profile-small.jpg" alt="Profile image">
+	   <h1>Aleksandar Anžel</h1>
 	   
-	   <img src="../assets/profile-small.jpg" alt="Profile image">
-
-
    		<div class="button">
 			<div class="icon">
-		<i class="fa fa-envelope"></i></div>
+		<a href="mailto:aleksandar.anzel@gmail.com" class="fa fa-envelope"></a></div>
 		      </div>
 	        <div class="button">
 			<div class="icon">
-		<i class="fab fa-github"></i></div>
+		<a href="https://github.com/AAnzel" class="fab fa-github"></a></div>
 		      </div>
 		<div class="button">
 			<div class="icon">
-		<i class="fab fa-twitter"></i></div>
+		<a href="https://twitter.com/AleksandarAnzel" class="fab fa-twitter"></a></div>
 		      </div>
 		<div class="button">
 			<div class="icon">
-		<i class="fab fa-linkedin"></i></div>
+		<a href="https://www.linkedin.com/in/aanzel/" class="fab fa-linkedin"></a></div>
 		      </div>
-	    </div>
-   </div>
-    
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include footer.html -%}
+        
+    </aside>
+    <!-- Footer -->
+    <footer id="footer" class="clearfix">
+        ©  Aleksandar Anžel 2020
+    </footer>
+	
 
   </body>
 
