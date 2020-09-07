@@ -5,7 +5,5 @@
 layout: post
 ---
 
-## __About__
-
-A recent graduate of The Faculty of Mathematics, University of Belgrade with a Master's degree in Mathematics, module Computer Science and Informatics. Interested into applying Machine Learning in Computational and Systems Biology.
+Hi, my name is Aleksandar Anžel. I am a computer scientist, mathematician, artist and an optimistic realist. 
 

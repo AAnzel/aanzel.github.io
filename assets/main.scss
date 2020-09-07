@@ -4,25 +4,30 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
 
-img{
+aside img{
     border-radius: 40%;
 }
 
+ul {
+  list-style-type: circle;
+}
+
 a:link {
-  color: #333;
+  color: #010101;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-style: dotted;
 }
 
 a:hover {
-    color: #333;
+    color: #777;
     text-decoration: none;
     border: 5px transparent #888;
     border-radius: 35px;
 }
 
 a:visited {
-  color: #333;
+  color: #777;
   background-color: transparent;
   text-decoration: none;
 }
@@ -46,6 +51,30 @@ a:active {
   display: block;
   text-align: center;
   transition: all 0.3s ease-out;
+}
+
+.button .icon a:active{
+  color: #333;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.button .icon a:link{
+  color: #333;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.button .icon a:visited{
+  color: #333;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.button .icon a:hover{
+  color: #777;
+  background-color: transparent;
+  text-decoration: none;
 }
 
 #container{
