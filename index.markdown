@@ -5,5 +5,5 @@
 layout: post
 ---
 
-Hi, my name is Aleksandar Anžel. I am a computer scientist, mathematician, artist and an optimistic realist. 
+Hi, my name is Aleksandar Anžel. I am a computer scientist, mathematician, self-taught artist and an optimistic realist. 
 
