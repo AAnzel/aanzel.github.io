@@ -31,6 +31,8 @@ github_username:  AAnzel
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 
 # Exclude from processing.
