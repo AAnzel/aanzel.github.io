@@ -182,7 +182,7 @@ footer{
 
 
 $switch-speed: 1s;
-$slider-number: 16;  // OVO OBAVEZNO PROMENITI !!!!!!!!!!!!!
+$slider-number: 17;  // OVO OBAVEZNO PROMENITI !!!!!!!!!!!!!
 $slider-width: 100% / $slider-number;
 
 $image1: '../assets/Kompresovani/pyramids.jpg';
@@ -201,6 +201,7 @@ $image13: '../assets/Kompresovani/tauriel.jpg';
 $image14: '../assets/Kompresovani/venus.jpg';
 $image15: '../assets/Kompresovani/clavicula.jpg';
 $image16: '../assets/Kompresovani/david.jpg';
+$image17: '../assets/Kompresovani/lucifer.jpg';
 
 
 *::before,
@@ -262,6 +263,7 @@ $image16: '../assets/Kompresovani/david.jpg';
   .s-item-14 {background-image: url($image14);}
   .s-item-15 {background-image: url($image15);}
   .s-item-16 {background-image: url($image16);}
+  .s-item-17 {background-image: url($image17);}
 }
 
 .s-type-1 {
