@@ -33,7 +33,15 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-analytics
 
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-N20Z376S78          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
+# Google Analytics
+google_analytics: G-N20Z376S78
 
 # Exclude from processing.
 # The following items will not be processed, by default.
