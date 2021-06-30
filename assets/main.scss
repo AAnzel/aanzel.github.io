@@ -2,10 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+*{
+    color: #161616;
+}
 
 aside img{
-    border-radius: 40%;
+    border-radius: 25%;
     height: auto;
     max-width: 100%;
     width: 30vw;
@@ -46,14 +50,13 @@ a:active {
   display: block;
   color: #333;
   background: #fff;
-  cursor: pointer;
-  transition: all 0.3s ease-out;
 }
 
 .button .icon{
   display: block;
-  text-align: center;
+  text-align: left;
   transition: all 0.3s ease-out;
+  padding: 0 0 0 30%;
 }
 
 .button .icon a:active{
