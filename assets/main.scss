@@ -185,7 +185,7 @@ footer{
 
 
 $switch-speed: 1s;
-$slider-number: 34;  // OVO OBAVEZNO PROMENITI !!!!!!!!!!!!!
+$slider-number: 35;  // OVO OBAVEZNO PROMENITI !!!!!!!!!!!!!
 $slider-width: 100% / $slider-number;
 
 $image1: '../assets/Kompresovani/pyramids.jpg';
@@ -222,6 +222,7 @@ $image31: '../assets/Kompresovani/face_elements.jpg';
 $image32: '../assets/Kompresovani/acropolis.jpg';
 $image33: '../assets/Kompresovani/nautilus.jpg';
 $image34: '../assets/Kompresovani/church.jpg';
+$image35: '../assets/Kompresovani/b_portrait.jpg';
 
 *::before,
 *::after {
@@ -300,6 +301,7 @@ $image34: '../assets/Kompresovani/church.jpg';
   .s-item-32 {background-image: url($image32);}
   .s-item-33 {background-image: url($image33);}
   .s-item-34 {background-image: url($image34);}
+  .s-item-35 {background-image: url($image35);}
 }
 
 .s-type-1 {
