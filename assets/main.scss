@@ -42,7 +42,7 @@ a:active {
 aside {
     float: left;
     padding: 3%;
-    width: 24%;
+    width: 18%;
     text-align:center;
     position:relative;
 }
@@ -94,7 +94,7 @@ asside .button .icon a:hover{
 
 #container{
     margin: 100px auto;
-    max-width: 1000px;
+    max-width: 1280px;
     font-family: "Titillium Web";
 }
 
@@ -185,7 +185,7 @@ footer{
 
 
 $switch-speed: 1s;
-$slider-number: 35;  // OVO OBAVEZNO PROMENITI !!!!!!!!!!!!!
+$slider-number: 36;  // OVO OBAVEZNO PROMENITI !!!!!!!!!!!!!
 $slider-width: 100% / $slider-number;
 
 $image1: '../assets/Kompresovani/pyramids.jpg';
@@ -223,6 +223,7 @@ $image32: '../assets/Kompresovani/acropolis.jpg';
 $image33: '../assets/Kompresovani/nautilus.jpg';
 $image34: '../assets/Kompresovani/church.jpg';
 $image35: '../assets/Kompresovani/b_portrait.jpg';
+$image36: '../assets/Kompresovani/toscana.jpg';
 
 *::before,
 *::after {
@@ -302,6 +303,7 @@ $image35: '../assets/Kompresovani/b_portrait.jpg';
   .s-item-33 {background-image: url($image33);}
   .s-item-34 {background-image: url($image34);}
   .s-item-35 {background-image: url($image35);}
+  .s-item-36 {background-image: url($image36);}
 }
 
 .s-type-1 {
