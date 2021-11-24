@@ -1,75 +1,42 @@
- <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+---
+---
 
-  {%- include head.html -%}
-
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
-	<link rel="stylesheet" href="../assets/style.css">
-	  {% seo %}
-	  <!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-N20Z376S78"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'G-N20Z376S78');
-	</script>
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include_cached skip-links.html %}
+    {% include_cached browser-upgrade.html %}
+    {% include_cached masthead.html %}
+
+    <div class="initial-content">
+      {{ content }}
+    </div>
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html %}
+      </div>
+    {% endif %}
     
-    <div id="container">
-    <!-- Navigation -->
-    <nav id="menu" class="clearfix">
-        <ul>
-		<li><a class="active" href="about.html">ABOUT</a></li>
-		<li><a href="research.html">RESEARCH</a></li>
-		<li><a href="publications.html">PUBLICATIONS</a></li>
-		<li><a href="software.html">SOFTWARE</a></li>
-		<li><a href="drawings.html">DRAWINGS</a></li>
-		<li><a href="cv.html" target="_blank" rel="noopener noreferrer">CV</a></li>
-        </ul>
-    </nav> 
-    <!-- Main Content area -->
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
 
-    <section id="content">
-	<main class="page-content" aria-label="Content">
-      		<div class="wrapper">
-        		{{ content }}
-	        </div>
-	            <!-- Footer -->
-		    <footer id="footer" class="clearfix">
-			©  2021
-		    </footer>
-        </main>
-        
-    </section>
+    {% include scripts.html %}
 
-    <!-- Sidebar -->
-
-    <aside  id="sidebar">
-        <img src="../assets/profile-small-01.jpg" href="index.markdown" alt="Profile image" >
-	   <h1>Aleksandar Anžel</h1>
-	   
-   		<div class="button">
-			<div class="icon">
-		<a href="mailto:aleksandar.anzel@uni-marburg.de"><i class="icon-envelope"></i>&emsp;E-Mail</a></div>
-		      </div>
-	        <div class="button">
-			<div class="icon">
-		<a href="https://github.com/AAnzel" target="_blank" rel="noopener noreferrer"><i class="icon-github"></i>&emsp;GitHub</a></div>
-		      </div>
-		<div class="button">
-			<div class="icon">
-		<a href="https://twitter.com/AleksandarAnzel" target="_blank" rel="noopener noreferrer"><i class="icon-twitter"></i>&emsp;Twitter</a></div>
-		      </div>
-		<div class="button">
-			<div class="icon">
-		<a href="https://www.linkedin.com/in/aanzel/" target="_blank" rel="noopener noreferrer"><i class="icon-linkedin"></i>&emsp;LinkedIn</a></div>
-		      </div>
-    </aside>
-    
   </body>
-
 </html>
