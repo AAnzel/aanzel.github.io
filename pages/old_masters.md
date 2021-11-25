@@ -5,14 +5,6 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/Kompresovani/clavicula.jpg
-    image_path: /assets/images/Kompresovani/clavicula.jpg
-    alt: "Clavicula"
-    title: "Clavicula"
-  - url: /assets/images/Kompresovani/venus.jpg
-    image_path: /assets/images/Kompresovani/venus.jpg
-    alt: "Venus"
-    title: "Venus"
   - url: /assets/images/Kompresovani/david.jpg
     image_path: /assets/images/Kompresovani/david.jpg
     alt: "David"
