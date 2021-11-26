@@ -3,7 +3,7 @@ permalink: /drawings/
 title: "Drawings"
 layout: single
 header:
-  image: /assets/images/Kompresovani/lucifer.jpg
+  image: /assets/images/david_banner.jpg
 author_profile: true
 
 gallery:
