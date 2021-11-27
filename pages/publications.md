@@ -11,7 +11,7 @@ author_profile: true
 <div data-badge-popover="top" data-badge-type="1" data-doi="10.1016/j.csbj.2021.08.031" data-hide-no-mentions="true" class="altmetric-embed"></div> <a href="https://doi.org/10.1016/j.csbj.2021.08.031" target="_blank" rel="noopener noreferrer"> <img src="/assets/images/Publication_images/tvsds_doi.svg" alt="TVSDS DOI"/> </a>
 
 
-<a href="https://doi.org/10.1016/j.csbj.2021.08.031" target="_blank" rel="noopener noreferrer"> <img src="/assets/images/Publication_images/tvsds_Usage_name.svg" alt="TVSDS image" width="1200" /> </a>
+<a href="https://doi.org/10.1016/j.csbj.2021.08.031" target="_blank" rel="noopener noreferrer"> <img src="/assets/images/Publication_images/tvsds_Usage_name.png" alt="TVSDS image" width="1200" /> </a>
 
 
 
