@@ -3,7 +3,7 @@ permalink: /drawings/
 title: "Drawings"
 layout: single
 header:
-  image: /assets/images/david_banner.jpg
+  image: /assets/images/david_banner_transparent.png
 author_profile: true
 
 gallery:
