@@ -16,14 +16,16 @@ My main research thesis is that computer science methods will profoundly acceler
 
 
 ###### Selected events:
-
-* <small>**2021** Symposium on Interdisciplinary Bioinformatics and Biomedical Data Science (IBBMDS). Marburg, Germany. (presenter)
-* <small>**2020** IEEE Visualization Conference (VIS). Salt Lake City, Utah, USA. (attendee)</small>
-* <small>**2020** Eurographics & Eurovis (EGEV). Norrköpping, Sweden. (attendee)</small>
+* <small>**2021.** IEEE Visualization Conference (VIS). Virtual. (attendee)</small>
+* <small>**2021.** Oxford ML Summer School. Virtual. (attendee)</small>
+* <small>**2021.** Bio+Med+Vis Spring School. Virtual. (attendee)</small>
+* <small>**2021.** Symposium on Interdisciplinary Bioinformatics and Biomedical Data Science (IBBMDS). Marburg, Germany. (presenter)
+* <small>**2020.** IEEE Visualization Conference (VIS). Salt Lake City, Utah, USA. (attendee)</small>
+* <small>**2020.** Eurographics & Eurovis (EGEV). Norrköpping, Sweden. (attendee)</small>
 
 
 ###### Teaching:
 
-* <small>**2021 Seminar** Information Theory Tools for Visual Computing. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, presenter)</small>
+* <small>**2021, 2022. Seminar** Information Theory Tools for Visual Computing. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, presenter)</small>
 * <small>**2021 Lecture** Data Visualization. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator)</small>
 
