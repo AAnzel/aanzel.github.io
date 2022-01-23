@@ -21,10 +21,10 @@ gallery:
     image_path: /assets/images/Kompresovani/museum.jpg
     alt: "Museum"
     title: "Museum"
-  - url: /assets/images/Kompresovani/lips.jpg
-    image_path: /assets/images/Kompresovani/lips.jpg
-    alt: "Lips"
-    title: "Lips"
+  - url: /assets/images/Kompresovani/nautilus.jpg
+    image_path: /assets/images/Kompresovani/nautilus.jpg
+    alt: "Nautilus"
+    title: "Nautilus"
   - url: /assets/images/Kompresovani/face_elements.jpg
     image_path: /assets/images/Kompresovani/face_elements.jpg
     alt: "Face"
@@ -53,14 +53,18 @@ gallery:
     image_path: /assets/images/Kompresovani/venus.jpg
     alt: "Venus"
     title: "Venus"
+  - url: /assets/images/Kompresovani/b_braids.jpg
+    image_path: /assets/images/Kompresovani/b_braids.jpg
+    alt: "Braids"
+    title: "Braids"
   - url: /assets/images/Kompresovani/pyramids.jpg
     image_path: /assets/images/Kompresovani/pyramids.jpg
     alt: "Pyramids"
     title: "Pyramids"
-  - url: /assets/images/Kompresovani/nautilus.jpg
-    image_path: /assets/images/Kompresovani/nautilus.jpg
-    alt: "Nautilus"
-    title: "Nautilus"
+  - url: /assets/images/Kompresovani/lips.jpg
+    image_path: /assets/images/Kompresovani/lips.jpg
+    alt: "Lips"
+    title: "Lips"
 ---
 
 
