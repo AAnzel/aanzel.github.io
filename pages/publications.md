@@ -12,7 +12,7 @@ author_profile: true
 
 <a href="https://doi.org/10.1016/j.csbj.2022.02.012" target="_blank" rel="noopener noreferrer"> <img src="/assets/images/Publication_images/movis_overview.jpg" alt="MOVIS image" width="1200" /> </a>
 
-<small> Anžel, A., Heider, D., & Hattab, G. (2022). **MOVIS: A multi-omics software solution for multi-modal time-series clustering, embedding, and visualizing tasks**. Computational and Structural Biotechnology Journal, 20, 1044–1055. [doi:10.1016/j.csbj.2022.02.012](https://doi.org/10.1016/j.csbj.2022.02.012).</small>
+<small> Anžel, A., Heider, D., & Hattab, G. (2022). **MOVIS: A multi-omics software solution for multi-modal time-series clustering, embedding, and visualizing tasks**. Computational and Structural Biotechnology Journal, 20, 1044–1055. [https://doi.org/10.1016/j.csbj.2022.02.012](https://doi.org/10.1016/j.csbj.2022.02.012).</small>
 
 
 ---
