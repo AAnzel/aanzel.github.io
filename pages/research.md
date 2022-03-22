@@ -11,11 +11,12 @@ author_profile: true
 My main research thesis is that computer science methods will profoundly accelerate and enable progress in and understanding of human biology and medicine overall. In particular, I am interested in:
 * Bioinformatics
 <img src="/assets/images/dna.png" alt="Bioinformatics" width=200px align="right" style="float=none">
-* Representation learning
+* ML for omics problems
 * Data visualization
 
 
 ###### Selected events:
+* <small>**2022.** The 1st International Conference on Data Storage in Molecular Media. Virtual. (attendee, co-host)</small>
 * <small>**2021.** IEEE Visualization Conference (VIS). Virtual. (attendee)</small>
 * <small>**2021.** Oxford ML Summer School. Virtual. (attendee)</small>
 * <small>**2021.** Bio+Med+Vis Spring School. Virtual. (attendee)</small>
@@ -25,7 +26,7 @@ My main research thesis is that computer science methods will profoundly acceler
 
 
 ###### Teaching:
-
+* <small>**2022. Guest lecture** Molecules as storage media for long-term data storage. Faculty of Mathematics, University of Belgrade. Belgrade, Serbia. (presenter)
 * <small>**2021, 2022. Seminar** Information Theory Tools for Visual Computing. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, presenter)</small>
 * <small>**2021 Lecture** Data Visualization. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator)</small>
 
