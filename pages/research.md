@@ -21,8 +21,8 @@ My main research thesis is that computer science methods will profoundly acceler
 * <small>**2021.** Oxford ML Summer School. Virtual. (attendee)</small>
 * <small>**2021.** Bio+Med+Vis Spring School. Virtual. (attendee)</small>
 * <small>**2021.** Symposium on Interdisciplinary Bioinformatics and Biomedical Data Science (IBBMDS). Marburg, Germany. (presenter)
-* <small>**2020.** IEEE Visualization Conference (VIS). Salt Lake City, Utah, USA. (attendee)</small>
-* <small>**2020.** Eurographics & Eurovis (EGEV). Norrköpping, Sweden. (attendee)</small>
+* <small>**2020.** IEEE Visualization Conference (VIS). Virtual. (attendee)</small>
+* <small>**2020.** Eurographics & Eurovis (EGEV). Virtual. (attendee)</small>
 
 
 ###### Teaching:
