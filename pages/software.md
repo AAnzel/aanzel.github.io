@@ -23,3 +23,5 @@ All of the projects presented here were completed by me or in a team for academi
 
 * [A short introduction to Data Exploration and Visualization](https://github.com/AAnzel/DataVis_Supplementary_Material)
 * [MOVIS: A multi-omics software solution for multi-modal time-series clustering, embedding, and visualizing tasks](https://github.com/AAnzel/MOVIS)
+* [CMANGOES: Carbon-based Multi-level Atomic Neighborhood Encodings](https://github.com/ghattab/CMANGOES)
+
