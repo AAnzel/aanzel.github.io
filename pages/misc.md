@@ -65,6 +65,10 @@ gallery:
     image_path: /assets/images/Kompresovani/lips.jpg
     alt: "Lips"
     title: "Lips"
+  - url: /assets/images/Kompresovani/old_mill.jpg
+    image_path: /assets/images/Kompresovani/old_mill.jpg
+    alt: "Old Mill"
+    title: "Old Mill"
 ---
 
 
