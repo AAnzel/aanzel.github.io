@@ -128,7 +128,10 @@ author:
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/aanzel/ # url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/aanzel/" # url: "https://instagram.com/"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-0678-2870" # url: "https://instagram.com/"
 
 # Site Footer
 footer:
