@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-> 'Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.' -- Brian Kernighan
+> "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." -- Brian Kernighan
 
 
 All of the projects presented here were completed by me or in a team for academic and self-learning purposes.
