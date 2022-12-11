@@ -22,7 +22,7 @@ gallery:
 
 ---
 
-> 'Drawing is the honesty of the art. There is no possibility of cheating. It is either good or bad.' ― Salvador Dali
+> 'Drawing is the honesty of the art. There is no possibility of cheating. It is either good or bad.' -- Salvador Dali
 
 
 I adore art in all its forms and shapes. In my spare time, I love to draw things that I find interesting and beautiful. The vast majority of the drawings below I created starting from The Great 2020 Quarantine.

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-> 'If I have seen further it is by standing on the shoulders of Giants.' ― Isaac Newton
+> 'If I have seen further it is by standing on the shoulders of Giants.' -- Isaac Newton
 
 
 My main research thesis is that computer science methods will profoundly accelerate and enable progress in and understanding of human biology and medicine overall. In particular, I am interested in:
