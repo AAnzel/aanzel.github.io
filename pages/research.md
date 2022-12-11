@@ -10,7 +10,7 @@ author_profile: true
 
 My main research thesis is that computer science methods will profoundly accelerate and enable progress in and understanding of human biology and medicine overall. In particular, I am interested in:
 * Bioinformatics
-<img src="/assets/images/dna.png" alt="Bioinformatics" width=200px align="right" style="float=none">
+<img src="/assets/images/dna.webp" alt="Bioinformatics" width=200px align="right" style="float=none">
 * ML for omics problems
 * Data visualization
 

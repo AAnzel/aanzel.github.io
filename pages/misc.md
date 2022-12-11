@@ -5,68 +5,68 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/Kompresovani/toscana.jpg
-    image_path: /assets/images/Kompresovani/toscana.jpg
+  - url: /assets/images/Kompresovani/toscana.webp
+    image_path: /assets/images/Kompresovani/toscana.webp
     alt: "Toscana"
     title: "Toscana"
-  - url: /assets/images/Kompresovani/camel.jpg
-    image_path: /assets/images/Kompresovani/camel.jpg
+  - url: /assets/images/Kompresovani/camel.webp
+    image_path: /assets/images/Kompresovani/camel.webp
     alt: "Camel"
     title: "Camel"
-  - url: /assets/images/Kompresovani/stairs.jpg
-    image_path: /assets/images/Kompresovani/stairs.jpg
+  - url: /assets/images/Kompresovani/stairs.webp
+    image_path: /assets/images/Kompresovani/stairs.webp
     alt: "Stairs"
     title: "Stairs"
-  - url: /assets/images/Kompresovani/museum.jpg
-    image_path: /assets/images/Kompresovani/museum.jpg
+  - url: /assets/images/Kompresovani/museum.webp
+    image_path: /assets/images/Kompresovani/museum.webp
     alt: "Museum"
     title: "Museum"
-  - url: /assets/images/Kompresovani/nautilus.jpg
-    image_path: /assets/images/Kompresovani/nautilus.jpg
+  - url: /assets/images/Kompresovani/nautilus.webp
+    image_path: /assets/images/Kompresovani/nautilus.webp
     alt: "Nautilus"
     title: "Nautilus"
-  - url: /assets/images/Kompresovani/face_elements.jpg
-    image_path: /assets/images/Kompresovani/face_elements.jpg
+  - url: /assets/images/Kompresovani/face_elements.webp
+    image_path: /assets/images/Kompresovani/face_elements.webp
     alt: "Face"
     title: "Face"
-  - url: /assets/images/Kompresovani/church.jpg
-    image_path: /assets/images/Kompresovani/church.jpg
+  - url: /assets/images/Kompresovani/church.webp
+    image_path: /assets/images/Kompresovani/church.webp
     alt: "Church"
     title: "Church"
-  - url: /assets/images/Kompresovani/ballerina.jpg
-    image_path: /assets/images/Kompresovani/ballerina.jpg
+  - url: /assets/images/Kompresovani/ballerina.webp
+    image_path: /assets/images/Kompresovani/ballerina.webp
     alt: "Ballerina"
     title: "Ballerina"
-  - url: /assets/images/Kompresovani/b_portrait.jpg
-    image_path: /assets/images/Kompresovani/b_portrait.jpg
+  - url: /assets/images/Kompresovani/b_portrait.webp
+    image_path: /assets/images/Kompresovani/b_portrait.webp
     alt: "B"
     title: "B"
-  - url: /assets/images/Kompresovani/clavicula.jpg
-    image_path: /assets/images/Kompresovani/clavicula.jpg
+  - url: /assets/images/Kompresovani/clavicula.webp
+    image_path: /assets/images/Kompresovani/clavicula.webp
     alt: "Clavicula"
     title: "Clavicula"
-  - url: /assets/images/Kompresovani/acropolis.jpg
-    image_path: /assets/images/Kompresovani/acropolis.jpg
+  - url: /assets/images/Kompresovani/acropolis.webp
+    image_path: /assets/images/Kompresovani/acropolis.webp
     alt: "Acropolis"
     title: "Acropolis"
-  - url: /assets/images/Kompresovani/venus.jpg
-    image_path: /assets/images/Kompresovani/venus.jpg
+  - url: /assets/images/Kompresovani/venus.webp
+    image_path: /assets/images/Kompresovani/venus.webp
     alt: "Venus"
     title: "Venus"
-  - url: /assets/images/Kompresovani/b_braids.jpg
-    image_path: /assets/images/Kompresovani/b_braids.jpg
+  - url: /assets/images/Kompresovani/b_braids.webp
+    image_path: /assets/images/Kompresovani/b_braids.webp
     alt: "Braids"
     title: "Braids"
-  - url: /assets/images/Kompresovani/pyramids.jpg
-    image_path: /assets/images/Kompresovani/pyramids.jpg
+  - url: /assets/images/Kompresovani/pyramids.webp
+    image_path: /assets/images/Kompresovani/pyramids.webp
     alt: "Pyramids"
     title: "Pyramids"
-  - url: /assets/images/Kompresovani/lips.jpg
-    image_path: /assets/images/Kompresovani/lips.jpg
+  - url: /assets/images/Kompresovani/lips.webp
+    image_path: /assets/images/Kompresovani/lips.webp
     alt: "Lips"
     title: "Lips"
-  - url: /assets/images/Kompresovani/old_mill.jpg
-    image_path: /assets/images/Kompresovani/old_mill.jpg
+  - url: /assets/images/Kompresovani/old_mill.webp
+    image_path: /assets/images/Kompresovani/old_mill.webp
     alt: "Old Mill"
     title: "Old Mill"
 ---
