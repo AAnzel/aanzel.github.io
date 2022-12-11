@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Aleksandar Anžel"
-  avatar           : "/assets/images/profile-small-01.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile-small.webp" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " " # "I am an **amazing** person."
   location         : # "Somewhere"
   email            : "aleksandar.anzel@uni-marburg.de"
