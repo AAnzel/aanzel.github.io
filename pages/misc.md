@@ -69,6 +69,10 @@ gallery:
     image_path: /assets/images/Kompresovani/old_mill.webp
     alt: "Old Mill"
     title: "Old Mill"
+  - url: /assets/images/Kompresovani/mexico.webp
+    image_path: /assets/images/Kompresovani/mexico.webp
+    alt: "Mexico"
+    title: "Mexico"
 ---
 
 
