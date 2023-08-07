@@ -16,6 +16,7 @@ My main research thesis is that computer science methods will profoundly acceler
 
 
 ###### Selected events:
+* <small>**2023.** Future Bioinformatics Workshop. Herborn, Germany. (attendee)</small>
 * <small>**2022.** Future Bioinformatics Workshop. Ebsdorfergrund, Germany. (presenter)</small>
 * <small>**2022.** The 1st International Conference on Data Storage in Molecular Media. Virtual. (attendee, co-host)</small>
 * <small>**2021.** IEEE Visualization Conference (VIS). Virtual. (attendee)</small>
