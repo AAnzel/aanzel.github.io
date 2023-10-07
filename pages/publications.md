@@ -5,6 +5,20 @@ layout: single
 author_profile: true
 ---
 
+## Interactive polar diagrams for model comparison
+
+
+<div data-badge-popover="top" data-badge-type="1" data-doi="10.1016/j.cmpb.2023.107843" data-hide-no-mentions="true" class="altmetric-embed"></div> <a href="https://doi.org/10.1016/j.cmpb.2023.107843" target="_blank" rel="noopener noreferrer"> <img src="/assets/images/Publication_images/polar_doi.svg" alt="Polar Diagrams DOI"/> </a>
+
+<a href="https://doi.org/10.1016/j.cmpb.2023.107843" target="_blank" rel="noopener noreferrer"> <img src="/assets/images/Publication_images/polar_overview.webp" alt="Polar Diagrams image" width="1200" /> </a>
+
+
+<small> **Anžel, A.**, Heider, D., & Hattab, G. (10 2023). **Interactive polar diagrams for model comparison**. Computer Methods and Programs in Biomedicine. [https://doi.org/10.1016/j.cmpb.2023.107843](https://doi.org/10.1016/j.cmpb.2023.107843). </small> 
+
+
+---
+
+
 
 ## A parametric approach for molecular encodings using multilevel atomic neighborhoods applied to peptide classification
 
