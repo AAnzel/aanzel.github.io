@@ -12,8 +12,7 @@ author_profile: true
 
 <a href="https://doi.org/10.1016/j.cmpb.2023.107843" target="_blank" rel="noopener noreferrer"> <img src="/assets/images/Publication_images/polar_overview.webp" alt="Polar Diagrams image" width="1200" /> </a>
 
-
-<small> **Anžel, A.**, Heider, D., & Hattab, G. (10 2023). **Interactive polar diagrams for model comparison**. Computer Methods and Programs in Biomedicine. [https://doi.org/10.1016/j.cmpb.2023.107843](https://doi.org/10.1016/j.cmpb.2023.107843). </small> 
+<small> **Anžel, A.**, Heider, D., & Hattab, G. (2023). **Interactive polar diagrams for model comparison**. Computer Methods and Programs in Biomedicine, 242, 107843. [https://doi.org/10.1016/j.cmpb.2023.107843](https://doi.org/10.1016/j.cmpb.2023.107843). </small> 
 
 
 ---
