@@ -115,7 +115,7 @@ author:
       icon: "fas fa-globe"
       url: "https://aanzel.github.io" # url: "https://your-website.com"
     - label: "X (Twitter)"
-      icon: "fab fa-square-x-twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
       url: "https://twitter.com/AleksandarAnzel" # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
