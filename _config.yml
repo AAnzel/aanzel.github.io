@@ -108,9 +108,6 @@ author:
   location         : # "Somewhere"
   email            : "AnzelA@rki.de"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-globe"
       url: "https://aanzel.github.io" # url: "https://your-website.com"
@@ -137,7 +134,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-square-x-twitter"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
