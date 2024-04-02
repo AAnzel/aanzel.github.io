@@ -109,7 +109,7 @@ author:
   email            : "AnzelA@rki.de"
   links:
     - label: "Website"
-      icon: "fas fa-globe"
+      icon: "fas fa-fw fa-globe"
       url: "https://aanzel.github.io" # url: "https://your-website.com"
     - label: "X (Twitter)"
       icon: "fab fa-fw fa-square-x-twitter"
