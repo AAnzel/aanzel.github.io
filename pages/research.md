@@ -16,6 +16,9 @@ My main research thesis is that computer science methods will profoundly acceler
 
 
 ###### Selected events:
+
+* <small>**2024** Workshop --- Good Scientific Practice: From Data to AI. Berlin, Germany. (presenter)</small>
+* <small>**2024** Serbian Society for Bioinformatics and Computational Biology (BiRBi) Seminar. Virtual. (presenter)</small>
 * <small>**2023.** Artificial Intelligence in Public Health Research. Berlin, Germany. (organizer, attendee)</small>
 * <small>**2023.** Future Bioinformatics Workshop. Herborn, Germany. (attendee)</small>
 * <small>**2022.** Future Bioinformatics Workshop. Ebsdorfergrund, Germany. (presenter)</small>
