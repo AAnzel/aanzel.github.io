@@ -11,14 +11,14 @@ author_profile: true
 My main research thesis is that computer science methods will profoundly accelerate and enable progress in and understanding of human biology and medicine overall. In particular, I am interested in:
 * Bioinformatics
 <img src="/assets/images/dna.webp" alt="Bioinformatics" width=200px align="right" style="float=none">
-* ML for omics problems
-* Data visualization
+* Machine Learning for Biomedical Problems
+* Data Visualization
 
 
 ###### Selected events:
 
-* <small>**2024** Workshop --- Good Scientific Practice: From Data to AI. Berlin, Germany. (presenter)</small>
-* <small>**2024** Serbian Society for Bioinformatics and Computational Biology (BiRBi) Seminar. Virtual. (presenter)</small>
+* <small>**2024.** Workshop --- Good Scientific Practice: From Data to AI. Berlin, Germany. (presenter)</small>
+* <small>**2024.** Serbian Society for Bioinformatics and Computational Biology (BiRBi) Seminar. Virtual. (presenter)</small>
 * <small>**2023.** Artificial Intelligence in Public Health Research. Berlin, Germany. (organizer, attendee)</small>
 * <small>**2023.** Future Bioinformatics Workshop. Herborn, Germany. (attendee)</small>
 * <small>**2022.** Future Bioinformatics Workshop. Ebsdorfergrund, Germany. (presenter)</small>
