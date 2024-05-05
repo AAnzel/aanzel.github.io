@@ -5,6 +5,25 @@ layout: single
 author_profile: true
 ---
 
+
+
+## Kernel-based Learning for Safe Control of Discrete-Time Unknown Systems under Incomplete Observations
+
+
+<div data-badge-popover="top" data-badge-type="1" data-doi="10.48550/arXiv.2405.00822" data-hide-no-mentions="true" class="altmetric-embed"></div> <a href="https://doi.org/10.48550/arXiv.2405.00822" target="_blank" rel="noopener noreferrer"> <img src="/assets/images/Publication_images/kernel_based_doi.svg" alt="Kernel-Based DOI"/> </a>
+
+<a href="https://doi.org/10.48550/arXiv.2405.00822" target="_blank" rel="noopener noreferrer"> <img src="/assets/images/Publication_images/Kernel_based.webp" alt="Kernel-based Learning image" width="1200" /> </a>
+
+<small> Yang, Z., Dai, X., Yang, W., İlgen, B., **Anžel, A.**, & Hattab, G. (2024). **Kernel-based Learning for Safe Control of Discrete-Time Unknown Systems under Incomplete Observations (Version 1)**. The 43rd Chinese Control Conference (CCC), Kunming, China, July 2024. [https://doi.org/10.48550/arXiv.2405.00822](https://doi.org/10.48550/arXiv.2405.00822). </small> 
+
+
+
+
+
+---
+
+
+
 ## Interactive polar diagrams for model comparison
 
 
