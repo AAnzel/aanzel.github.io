@@ -2,6 +2,7 @@
 permalink: /drawings/old_masters/
 title: "Old masters' replicas"
 layout: single
+classes: wide
 author_profile: true
 
 gallery:

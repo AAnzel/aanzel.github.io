@@ -2,6 +2,7 @@
 permalink: /drawings/pop_culture/
 title: "Pop culture"
 layout: single
+classes: wide
 author_profile: true
 
 gallery:

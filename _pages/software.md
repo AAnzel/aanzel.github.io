@@ -2,6 +2,7 @@
 permalink: /software/
 title: "Software"
 layout: single
+classes: wide
 author_profile: true
 ---
 

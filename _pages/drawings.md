@@ -2,6 +2,7 @@
 permalink: /drawings/
 title: "Drawings"
 layout: single
+classes: wide
 header:
   image: /assets/images/david_banner_transparent.webp
 author_profile: true

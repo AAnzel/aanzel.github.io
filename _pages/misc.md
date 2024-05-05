@@ -2,6 +2,7 @@
 permalink: /drawings/misc/
 title: "Miscellaneous"
 layout: single
+classes: wide
 author_profile: true
 
 gallery:
