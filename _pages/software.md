@@ -13,11 +13,11 @@ All of the projects presented here were completed by me or in a team for academi
 
 <table>
     <tr style="height:200px">
-      <td style="width:20%; text-align: center;" ><a href="https://github.com/ghattab/iCAN"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Software_logos/iCAN_logo.webp" alt="" /></a></td>
+      <td style="width:20%; text-align: center;" ><a href="https://github.com/ghattab/iCAN"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Software_logos/iCAN_logo.webp" alt="" style="max-height:200px"/></a></td>
       <td> <b>iCAN</b> is an open-source command-line interface (CLI) tool that represents an extension of the CMANGOES CLI tool. iCAN enhances the algorithm for encoding organic molecules, allowing for a greater amount of information to be encoded in numerical or image formats. Additionally, it empowers users to interpret these encodings. The innovative interpretability feature enables users to readily identify patterns and detect recurring signals within the encoded data. <a href="https://github.com/ghattab/iCAN"> GitHub repository</a>.</td>
     </tr>
     <tr style="height:200px">
-      <td style="width:20%; text-align: center;"><a href="https://github.com/AAnzel/Polar-Diagrams-Dashboard"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Software_logos/polar_enhanced_logo.webp" alt="" /></a></td>
+      <td style="width:20%; text-align: center;"><a href="https://github.com/AAnzel/Polar-Diagrams-Dashboard"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Software_logos/polar_enhanced_logo.webp" alt="" style="max-height:200px"/></a></td>
       <td> <b>polar-diagrams-dashboard</b> is an open-source dashboard  that leverages the polar-diagrams library and Plotly Dash to incorporate additional visualization techniques into the current solution. It implements the overview+detail and small-multiple visualization techniques to fully harness the capabilities of the polar-diagrams library. <a href="https://github.com/AAnzel/Polar-Diagrams-Dashboard"> GitHub repository</a>.</td>
     </tr>
     <tr style="height:200px">
