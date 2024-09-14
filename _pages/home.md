@@ -3,6 +3,7 @@ permalink: /
 title: "Home"
 layout: single
 classes: wide
+canonical_url: "https://aanzel.github.io/"
 author_profile: true
 ---
 
