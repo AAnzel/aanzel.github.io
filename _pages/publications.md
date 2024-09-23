@@ -24,11 +24,11 @@ author_profile: true
 ## Kernel-based Learning for Safe Control of Discrete-Time Unknown Systems under Incomplete Observations
 
 
-<div data-badge-popover="top" data-badge-type="1" data-doi="10.48550/arXiv.2405.00822" data-hide-no-mentions="true" class="altmetric-embed"></div> <a href="https://doi.org/10.48550/arXiv.2405.00822" target="_blank" rel="noopener noreferrer"> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/kernel_based_doi.svg" alt="Kernel-Based DOI"/> </a>
+<div data-badge-popover="top" data-badge-type="1" data-doi="10.23919/CCC63176.2024.10662288" data-hide-no-mentions="true" class="altmetric-embed"></div> <a href="https://doi.org/10.23919/CCC63176.2024.10662288" target="_blank" rel="noopener noreferrer"> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/kernel_based_doi.svg" alt="Kernel-Based DOI"/> </a>
 
-<a href="https://doi.org/10.48550/arXiv.2405.00822" target="_blank" rel="noopener noreferrer"> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/Kernel_based.webp" alt="Kernel-based Learning image" width="1200" /> </a>
+<a href="https://doi.org/10.23919/CCC63176.2024.10662288" target="_blank" rel="noopener noreferrer"> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/Kernel_based.webp" alt="Kernel-based Learning image" width="1200" /> </a>
 
-<small> Yang, Z., Dai, X., Yang, W., İlgen, B., **Anžel, A.**, & Hattab, G. (2024). **Kernel-based Learning for Safe Control of Discrete-Time Unknown Systems under Incomplete Observations (Version 1)**. The 43rd Chinese Control Conference (CCC), Kunming, China, July 2024. [https://doi.org/10.48550/arXiv.2405.00822](https://doi.org/10.48550/arXiv.2405.00822). </small> 
+<small> Yang, Z., Dai, X., Yang, W., İlgen, B., **Anžel, A.**, & Hattab, G. (2024). **Kernel-based Learning for Safe Control of Discrete-Time Unknown Systems under Incomplete Observations**. 43rd Chinese Control Conference (CCC), Kunming, China, 2024, pp. 6627-6632. [https://doi.org/10.23919/CCC63176.2024.10662288](https://doi.org/10.23919/CCC63176.2024.10662288). </small> 
 
 
 
