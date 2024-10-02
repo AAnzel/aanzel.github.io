@@ -16,23 +16,37 @@ My main research thesis is that computer science methods will profoundly acceler
 * Data Visualization
 
 
-###### Selected events:
+###### Selected events
 
-* <small>**2024.** Workshop --- Good Scientific Practice: From Data to AI. Berlin, Germany. (presenter)</small>
+* <small>**2024.**Publication Workshop for Health Professionals: Communicating Insights. Berlin, Germany. (presenter)</small>
+* <small>**2024.** Good Scientific Practice: From Data to AI. Berlin, Germany. (presenter)</small>
 * <small>**2024.** Serbian Society for Bioinformatics and Computational Biology (BiRBi) Seminar. Virtual. (presenter)</small>
+
+---
+
 * <small>**2023.** Artificial Intelligence in Public Health Research. Berlin, Germany. (organizer, attendee)</small>
 * <small>**2023.** Future Bioinformatics Workshop. Herborn, Germany. (attendee)</small>
+
+---
+
 * <small>**2022.** Future Bioinformatics Workshop. Ebsdorfergrund, Germany. (presenter)</small>
 * <small>**2022.** The 1st International Conference on Data Storage in Molecular Media. Virtual. (attendee, co-host)</small>
+
+---
+
 * <small>**2021.** IEEE Visualization Conference (VIS). Virtual. (attendee)</small>
 * <small>**2021.** Oxford ML Summer School. Virtual. (attendee)</small>
 * <small>**2021.** Bio+Med+Vis Spring School. Virtual. (attendee)</small>
 * <small>**2021.** Symposium on Interdisciplinary Bioinformatics and Biomedical Data Science (IBBMDS). Marburg, Germany. (presenter)
+
+---
+
 * <small>**2020.** IEEE Visualization Conference (VIS). Virtual. (attendee)</small>
 * <small>**2020.** Eurographics & Eurovis (EGEV). Virtual. (attendee)</small>
 
 
-###### Teaching:
+###### Teaching
+
 * <small>**2022., 2023. Lecture** Machine Learning. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator, tutor)</small>
 * <small>**2022. Group student project (Projektarbeit)** DNA Storage Encodings. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, tutor)</small>
 * <small>**2022. Guest lecture** Molecules as storage media for long-term data storage. Faculty of Mathematics, University of Belgrade. Belgrade, Serbia. (presenter)</small>
