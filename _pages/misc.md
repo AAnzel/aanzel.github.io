@@ -78,6 +78,10 @@ gallery:
     image_path: /assets/images/Kompresovani/mexico.webp
     alt: "Mexico"
     title: "Mexico"
+  - url: /assets/images/Kompresovani/japan.webp
+    image_path: /assets/images/Kompresovani/japan.webp
+    alt: "Japan"
+    title: "Japan"
 ---
 
 
