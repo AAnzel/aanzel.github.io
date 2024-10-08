@@ -18,7 +18,8 @@ My main research thesis is that computer science methods will profoundly acceler
 
 ###### Selected events
 
-* <small>**2024.**Publication Workshop for Health Professionals: Communicating Insights. Berlin, Germany. (presenter)</small>
+* <small>**2024.** Publication Workshop for Health Professionals: Communicating Insights. Berlin, Germany. 
+(presenter)</small>
 * <small>**2024.** Good Scientific Practice: From Data to AI. Berlin, Germany. (presenter)</small>
 * <small>**2024.** Serbian Society for Bioinformatics and Computational Biology (BiRBi) Seminar. Virtual. (presenter)</small>
 
