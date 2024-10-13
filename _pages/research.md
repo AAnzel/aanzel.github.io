@@ -16,7 +16,7 @@ My main research thesis is that computer science methods will profoundly acceler
 * Data Visualization
 
 
-###### Selected events
+### Selected events
 
 * <small>**2024.** Publication Workshop for Health Professionals: Communicating Insights. Berlin, Germany. 
 (presenter)</small>
@@ -46,11 +46,10 @@ My main research thesis is that computer science methods will profoundly acceler
 * <small>**2020.** Eurographics & Eurovis (EGEV). Virtual. (attendee)</small>
 
 
-###### Teaching
+### Teaching
 
 * <small>**2022., 2023. Lecture** Machine Learning. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator, tutor)</small>
 * <small>**2022. Group student project (Projektarbeit)** DNA Storage Encodings. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, tutor)</small>
 * <small>**2022. Guest lecture** Molecules as storage media for long-term data storage. Faculty of Mathematics, University of Belgrade. Belgrade, Serbia. (presenter)</small>
 * <small>**2021., 2022. Seminar** Information Theory Tools for Visual Computing. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, presenter)</small>
 * <small>**2021. Lecture** Data Visualization. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator)</small>
-
