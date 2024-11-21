@@ -18,7 +18,7 @@ feature_row_2:
 feature_row_3:
   - image_path: /assets/images/Software_logos/polar_diagrams_logo.webp
     alt: "Polar Diagrams Logo"
-    excerpt: "**polar-diagrams** is an open-source Python graphing library that creates interactive, publication-quality polar diagrams for model comparison. The library enables the evaluation of complex models across various domains, including biology, medicine, climatology, and machine learning. It addresses the challenge of evaluating models using multiple metrics by providing an integrated visualization approach.[GitHub repository](https://github.com/AAnzel/Polar-Diagrams-for-Model-Comparison)."
+    excerpt: "**polar-diagrams** is an open-source Python graphing library that creates interactive, publication-quality polar diagrams for model comparison. The library enables the evaluation of complex models across various domains, including biology, medicine, climatology, and machine learning. It addresses the challenge of evaluating models using multiple metrics by providing an integrated visualization approach. [GitHub repository](https://github.com/AAnzel/Polar-Diagrams-for-Model-Comparison)."
 
 feature_row_4:
   - image_path: /assets/images/Software_logos/movis_logo.webp
