@@ -8,17 +8,23 @@
 @import "minimal-mistakes"; // main partials
 
 .feature__item {
-    &--left {
-        .archive__item-teaser {
-          float: inline-start;
-          width: span(2 of 12);
-        }
+  float: inline-start;
+
+  .archive__item {
+    float: inline-start;
+  }
   
-        .archive__item-body {
-          float: inline-end;
-          width: span(10 of 12);
-          padding-inline-start: gutter(0.5 of 12);
-          padding-inline-end: gutter(1 of 12);
-        }
-    }
+  &--left_customized {
+      .archive__item-teaser {
+        float: inline-start;
+        width: span(2 of 12);
+      }
+
+      .archive__item-body {
+        float: inline-end;
+        width: span(10 of 12);
+        padding-inline-start: gutter(0.5 of 12);
+        padding-inline-end: gutter(1 of 12);
+      }
+  }
 }

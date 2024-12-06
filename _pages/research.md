@@ -11,45 +11,73 @@ author_profile: true
 
 My main research thesis is that computer science methods will profoundly accelerate and enable progress in and understanding of human biology and medicine overall. In particular, I am interested in:
 * Bioinformatics
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dna.webp" alt="Bioinformatics" width=200px align="right" style="float=none">
+![Bioinformatics]({{ site.url }}{{ site.baseurl }}/assets/images/dna.webp "Bioinformatics"){: align="right" width="180px" margin-left="45px"}
 * Machine Learning for Biomedical Problems
 * Data Visualization
 
 
 ### Selected events
 
-* <small>**2024.** Publication Workshop for Health Professionals: Communicating Insights. Berlin, Germany. 
-(presenter)</small>
-* <small>**2024.** Good Scientific Practice: From Data to AI. Berlin, Germany. (presenter)</small>
-* <small>**2024.** Serbian Society for Bioinformatics and Computational Biology (BiRBi) Seminar. Virtual. (presenter)</small>
+2024
+{: .text-center style="font-size:0.9em;"}
 
----
+* Publication Workshop for Health Professionals: Communicating Insights. Berlin, Germany. 
+(presenter)
+*  Good Scientific Practice: From Data to AI. Berlin, Germany. (presenter)
+*  Serbian Society for Bioinformatics and Computational Biology (BiRBi) Seminar. Virtual. (presenter)
+{: style="font-size:0.8em;"}
 
-* <small>**2023.** Artificial Intelligence in Public Health Research. Berlin, Germany. (organizer, attendee)</small>
-* <small>**2023.** Future Bioinformatics Workshop. Herborn, Germany. (attendee)</small>
+2023
+{: .text-center style="font-size:0.9em;"}
 
----
+* Artificial Intelligence in Public Health Research. Berlin, Germany. (organizer, attendee)
+* Future Bioinformatics Workshop. Herborn, Germany. (attendee)
+{: style="font-size:0.8em;"}
 
-* <small>**2022.** Future Bioinformatics Workshop. Ebsdorfergrund, Germany. (presenter)</small>
-* <small>**2022.** The 1st International Conference on Data Storage in Molecular Media. Virtual. (attendee, co-host)</small>
+2022
+{: .text-center style="font-size:0.9em;"}
 
----
+* Future Bioinformatics Workshop. Ebsdorfergrund, Germany. (presenter)
+* The 1st International Conference on Data Storage in Molecular Media. Virtual. (attendee, co-host)
+{: style="font-size:0.8em;"}
 
-* <small>**2021.** IEEE Visualization Conference (VIS). Virtual. (attendee)</small>
-* <small>**2021.** Oxford ML Summer School. Virtual. (attendee)</small>
-* <small>**2021.** Bio+Med+Vis Spring School. Virtual. (attendee)</small>
-* <small>**2021.** Symposium on Interdisciplinary Bioinformatics and Biomedical Data Science (IBBMDS). Marburg, Germany. (presenter)
+2021
+{: .text-center style="font-size:0.9em;"}
 
----
+* IEEE Visualization Conference (VIS). Virtual. (attendee)
+* Oxford ML Summer School. Virtual. (attendee)
+* Bio+Med+Vis Spring School. Virtual. (attendee)
+* Symposium on Interdisciplinary Bioinformatics and Biomedical Data Science (IBBMDS). Marburg, Germany. (presenter)
+{: style="font-size:0.8em;"}
 
-* <small>**2020.** IEEE Visualization Conference (VIS). Virtual. (attendee)</small>
-* <small>**2020.** Eurographics & Eurovis (EGEV). Virtual. (attendee)</small>
+2020
+{: .text-center style="font-size:0.9em;"}
+
+* IEEE Visualization Conference (VIS). Virtual. (attendee)
+* Eurographics & Eurovis (EGEV). Virtual. (attendee)
+{: style="font-size:0.8em;"}
 
 
 ### Teaching
 
-* <small>**2022., 2023. Lecture** Machine Learning. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator, tutor)</small>
-* <small>**2022. Group student project (Projektarbeit)** DNA Storage Encodings. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, tutor)</small>
-* <small>**2022. Guest lecture** Molecules as storage media for long-term data storage. Faculty of Mathematics, University of Belgrade. Belgrade, Serbia. (presenter)</small>
-* <small>**2021., 2022. Seminar** Information Theory Tools for Visual Computing. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, presenter)</small>
-* <small>**2021. Lecture** Data Visualization. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator)</small>
+2023
+{: .text-center style="font-size:0.9em;"}
+
+* **Lecture** Machine Learning. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator, tutor)
+{: style="font-size:0.8em;"}
+
+2022
+{: .text-center style="font-size:0.9em;"}
+
+* **Group student project (Projektarbeit)** DNA Storage Encodings. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, tutor)
+* **Guest lecture** Molecules as storage media for long-term data storage. Faculty of Mathematics, University of Belgrade. Belgrade, Serbia. (presenter)
+* **Lecture** Machine Learning. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator, tutor)
+* **Seminar** Information Theory Tools for Visual Computing. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, presenter)
+{: style="font-size:0.8em;"}
+
+2021
+{: .text-center style="font-size:0.9em;"}
+
+* **Lecture** Data Visualization. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator)
+* **Seminar** Information Theory Tools for Visual Computing. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, presenter)
+{: style="font-size:0.8em;"}

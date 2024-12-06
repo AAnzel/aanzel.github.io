@@ -36,13 +36,14 @@ The first image below will lead you to the collection of Pop Culture inspired dr
 
 ---
 
-<small>Some drawing materials I personally use are listed below:</small>
-* <small>Faber-Castell 9000 graphite pencil, Art Set, tin of 12.</small>
-* <small>Muji Gel Ink Ball Point Pen, 0.38mm, Black.</small>
-* <small>Staedtler 308 SB6P, Technical Drawing Pens.</small>
-* <small>Faber-Castell Perfection 7058 B eraser pencil.</small>
-* <small>Faber-Castell Estompe paper wiper.</small>
-* <small>Staedtler Rasoplast 526 B.</small>
-* <small>FABRIANO Ecological Paper, A4, 85g/m^2.</small>
-* <small>Kraft paper, B6.</small>
+Some drawing materials I personally use are listed below:
 
+* Faber-Castell 9000 graphite pencil, Art Set, tin of 12.
+* Muji Gel Ink Ball Point Pen, 0.38mm, Black.
+* Staedtler 308 SB6P, Technical Drawing Pens.
+* Faber-Castell Perfection 7058 B eraser pencil.
+* Faber-Castell Estompe paper wiper.
+* Staedtler Rasoplast 526 B.
+* FABRIANO Ecological Paper, A4, 85g/m^2.
+* Kraft paper, B6.
+{: style="font-size:0.8em;"}

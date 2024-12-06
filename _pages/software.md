@@ -73,15 +73,15 @@ All of the projects presented here were completed by me or in a team for academi
 
 <br>
 
-{% include feature_row id="feature_row_1" type="left"%}
-{% include feature_row id="feature_row_2" type="left"%}
-{% include feature_row id="feature_row_3" type="left"%}
-{% include feature_row id="feature_row_4" type="left"%}
-{% include feature_row id="feature_row_5" type="left"%}
-{% include feature_row id="feature_row_6" type="left"%}
-{% include feature_row id="feature_row_7" type="left"%}
-{% include feature_row id="feature_row_8" type="left"%}
-{% include feature_row id="feature_row_9" type="left"%}
-{% include feature_row id="feature_row_10" type="left"%}
-{% include feature_row id="feature_row_11" type="left"%}
-{% include feature_row id="feature_row_12" type="left"%}
+{% include feature_row id="feature_row_1" type="left_customized"%}
+{% include feature_row id="feature_row_2" type="left_customized"%}
+{% include feature_row id="feature_row_3" type="left_customized"%}
+{% include feature_row id="feature_row_4" type="left_customized"%}
+{% include feature_row id="feature_row_5" type="left_customized"%}
+{% include feature_row id="feature_row_6" type="left_customized"%}
+{% include feature_row id="feature_row_7" type="left_customized"%}
+{% include feature_row id="feature_row_8" type="left_customized"%}
+{% include feature_row id="feature_row_9" type="left_customized"%}
+{% include feature_row id="feature_row_10" type="left_customized"%}
+{% include feature_row id="feature_row_11" type="left_customized"%}
+{% include feature_row id="feature_row_12" type="left_customized"%}
