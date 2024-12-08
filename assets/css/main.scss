@@ -4,17 +4,29 @@
 
 @charset "utf-8";
 
+/* Variables Modifications by Aleksandar */
+
+$serif: 'Titillium Web', Georgia, Times, serif !default;
+$sans-serif: 'Titillium Web', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+
+/* Variables Modifications by Aleksandar */
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.feature__item {
-  float: inline-start;
 
-  .archive__item {
-    float: inline-start;
-  }
-  
+/* Feature Row Modifications by Aleksandar */
+
+.feature__item {
   &--left_customized {
+      font-size: 1.1em;
+      float: inline-start;
+
+      .archive__item {
+        float: inline-start;
+      }
+
       .archive__item-teaser {
         float: inline-start;
         width: span(2 of 12);
@@ -26,5 +38,55 @@
         padding-inline-start: gutter(0.5 of 12);
         padding-inline-end: gutter(1 of 12);
       }
+  }
+}
+
+/* Sidebar Modifications by Aleksandar */
+.author__bio {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
+}
+
+.sidebar {
+  p,
+  li {
+    font-family: $sans-serif;
+    font-size: $type-size-8;
+    line-height: 1.5;
+  }
+}
+
+.author__avatar {
+  img {
+    max-width: 180px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+
+/* Footer Modifications by Aleksandar */
+
+.page__footer {
+  background-color: $background-color;
+}
+
+
+/* Utilities Modifications by Aleksandar */
+
+.social-icons {
+  .fas,
+  .fab,
+  .far,
+  .fal {
+    /* color: $text-color; */
+    color: #000000;
   }
 }
