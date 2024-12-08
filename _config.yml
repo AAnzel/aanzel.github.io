@@ -20,7 +20,7 @@ title                    : "Temet Nosce"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aleksandar Anžel"
-description              : "Welcome to the personal website of Aleksandar Anžel, a passionate researcher specializing in artificial intelligence, machine learning, and data visualization within the fields of bioinformatics and public health. With a strong foundation in mathematics and computer science, Aleksandar is dedicated to advancing innovative methods that enhance the interpretation and visualization of AI models. Explore a diverse range of projects that showcase his commitment to improving user comprehension and fostering trust in AI systems. From developing cutting-edge visualization techniques to addressing complex challenges in automated workflows, Aleksandar's work aims to make a meaningful impact in the health-tech sector. Join him on this journey of discovery and innovation, and stay updated on the latest research insights and developments in AI and public health."
+description              : "Explore the personal website of Aleksandar Anžel, a researcher specializing in artificial intelligence, machine learning, and bioinformatics. Discover innovative projects that enhance AI interpretation in public health and stay updated on the latest research insights and developments."
 url                      : "https://aanzel.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "AAnzel/aanzel.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/profile-small.webp" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
