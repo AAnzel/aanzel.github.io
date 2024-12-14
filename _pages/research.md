@@ -12,8 +12,14 @@ author_profile: true
 My main research thesis is that computer science methods will profoundly accelerate and enable progress in and understanding of human biology and medicine overall. In particular, I am interested in:
 * Bioinformatics
 ![Bioinformatics]({{ site.url }}{{ site.baseurl }}/assets/images/dna.webp "Bioinformatics"){: align="right" width="180px" margin-left="45px"}
-* Machine Learning for Biomedical Problems
+* Artificial Intelligence for Biomedical Problems
 * Data Visualization
+
+### Scientific Committees and Societies
+
+* [German Alliance for Global Health Research (GLOHRA)](https://globalhealth.de/index.html). Secretariat c/o Charité Universitätsmedizin Berlin Charitéplatz 1, 10117 Berlin, Germany.
+* [Serbian Society for Bioinformatics and Computational Biology (BiRBi)](http://birbi.matf.bg.ac.rs/index.php/en/birbi-en/). Faculty of Mathematics, University of Belgrade, Studentski trg 16, 11000 Belgrade
+{: style="font-size:0.8em;"}
 
 
 ### Selected events

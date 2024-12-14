@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (8.0.0)
+    activesupport (8.0.1)
       base64
       benchmark (>= 0.3)
       bigdecimal
@@ -45,7 +45,7 @@ GEM
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
     execjs (2.10.0)
-    faraday (2.12.1)
+    faraday (2.12.2)
       faraday-net_http (>= 2.0, < 3.5)
       json
       logger
@@ -247,7 +247,7 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    logger (1.6.2)
+    logger (1.6.3)
     mercenary (0.3.6)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
@@ -256,17 +256,17 @@ GEM
     minitest (5.25.4)
     net-http (0.6.0)
       uri
-    nokogiri (1.17.0-aarch64-linux)
+    nokogiri (1.17.2-aarch64-linux)
       racc (~> 1.4)
-    nokogiri (1.17.0-arm-linux)
+    nokogiri (1.17.2-arm-linux)
       racc (~> 1.4)
-    nokogiri (1.17.0-arm64-darwin)
+    nokogiri (1.17.2-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.17.0-x86-linux)
+    nokogiri (1.17.2-x86-linux)
       racc (~> 1.4)
-    nokogiri (1.17.0-x86_64-darwin)
+    nokogiri (1.17.2-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.17.0-x86_64-linux)
+    nokogiri (1.17.2-x86_64-linux)
       racc (~> 1.4)
     octokit (4.25.1)
       faraday (>= 1, < 3)
