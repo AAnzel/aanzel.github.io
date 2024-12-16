@@ -15,12 +15,6 @@ My main research thesis is that computer science methods will profoundly acceler
 * Artificial Intelligence for Biomedical Problems
 * Data Visualization
 
-### Scientific Committees and Societies
-
-* [German Alliance for Global Health Research (GLOHRA)](https://globalhealth.de/index.html). Secretariat c/o Charité Universitätsmedizin Berlin Charitéplatz 1, 10117 Berlin, Germany.
-* [Serbian Society for Bioinformatics and Computational Biology (BiRBi)](http://birbi.matf.bg.ac.rs/index.php/en/birbi-en/). Faculty of Mathematics, University of Belgrade, Studentski trg 16, 11000 Belgrade
-{: style="font-size:0.8em;"}
-
 
 ### Selected events
 
@@ -86,4 +80,11 @@ My main research thesis is that computer science methods will profoundly acceler
 
 * **Lecture** Data Visualization. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator)
 * **Seminar** Information Theory Tools for Visual Computing. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, presenter)
+{: style="font-size:0.8em;"}
+
+
+### Scientific Committees and Societies
+
+* [German Alliance for Global Health Research (GLOHRA)](https://globalhealth.de/index.html). Secretariat c/o Charité Universitätsmedizin Berlin Charitéplatz 1, 10117 Berlin, Germany.
+* [Serbian Society for Bioinformatics and Computational Biology (BiRBi)](http://birbi.matf.bg.ac.rs/index.php/en/birbi-en/). Faculty of Mathematics, University of Belgrade, Studentski trg 16, 11000 Belgrade
 {: style="font-size:0.8em;"}
