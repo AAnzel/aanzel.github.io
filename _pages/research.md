@@ -85,6 +85,7 @@ My main research thesis is that computer science methods will profoundly acceler
 
 ### Scientific Committees and Societies
 
-* [German Alliance for Global Health Research (GLOHRA)](https://globalhealth.de/index.html). Secretariat c/o Charité Universitätsmedizin Berlin Charitéplatz 1, 10117 Berlin, Germany.
-* [Serbian Society for Bioinformatics and Computational Biology (BiRBi)](http://birbi.matf.bg.ac.rs/index.php/en/birbi-en/). Faculty of Mathematics, University of Belgrade, Studentski trg 16, 11000 Belgrade
+* [German Alliance for Global Health Research (GLOHRA)](https://globalhealth.de/index.html){:target="_blank"}. Secretariat c/o Charité Universitätsmedizin Berlin Charitéplatz 1, 10117 Berlin, Germany.
+* [Serbian Society for Bioinformatics and Computational Biology (BiRBi)](http://birbi.matf.bg.ac.rs/index.php/en/birbi-en/){:target="_blank"}. Faculty of Mathematics, University of Belgrade, Studentski trg 16, 11000 Belgrade.
+* [The Data Visualization Society (DVS)](https://www.datavisualizationsociety.org/){:target="_blank"}, EIN 84-1923759. 241 G St NW, Washington, DC 20001, USA.
 {: style="font-size:0.8em;"}
