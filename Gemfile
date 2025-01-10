@@ -6,6 +6,9 @@ gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "webrick"
 gem "csv"
+gem "mutex_m" # Added by me to suppress warnings and errors
+gem "ostruct" # Added by me to suppress warnings and errors
+gem "faraday-retry" # Added by me to suppress warnings and errors
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
