@@ -82,6 +82,14 @@ gallery:
     image_path: /assets/images/Kompresovani/japan.webp
     alt: "Japan"
     title: "Japan"
+  - url: /assets/images/Kompresovani/daisy.webp
+    image_path: /assets/images/Kompresovani/daisy.webp
+    alt: "Daisy"
+    title: "Daisy"
+  - url: /assets/images/Kompresovani/wagon.webp
+    image_path: /assets/images/Kompresovani/wagon.webp
+    alt: "Wagon"
+    title: "Wagon"
 ---
 
 
