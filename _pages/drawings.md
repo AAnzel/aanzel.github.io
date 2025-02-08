@@ -26,10 +26,10 @@ gallery:
 > "Drawing is the honesty of the art. There is no possibility of cheating. It is either good or bad." -- Salvador Dali
 
 
-I adore art in all its forms and shapes. In my spare time, I love to draw things that I find interesting and beautiful. The vast majority of the drawings below I created starting from _"The Great 2020 Quarantine"_.
+I adore art in all its forms and shapes. In my spare time, I love to draw things that I find interesting and beautiful. The vast majority of the drawings and paintings below I created starting from _"The Great 2020 Quarantine"_.
 
 
-The first image below will lead you to the collection of Pop Culture inspired drawings. The second image is a gateway to the collection of replicas of the Old Masters' artworks. The third image is a portal to the collection of drawings that are the products of my unwinding, eagerness to learn, and will to replicate things that I find gorgeous and/or interesting.
+The first image below will lead you to the collection of Pop Culture inspired works. The second image is a gateway to the collection of replicas of the Old Masters' artworks. The third image is a portal to the collection of works that are the products of my unwinding, eagerness to learn, and will to replicate things that I find gorgeous and/or interesting.
 
 
 {% include gallery layout=third %}
