@@ -43,6 +43,8 @@ Some drawing materials I personally use are listed below:
 * Staedtler 308 SB6P, Technical Drawing Pens.
 * Faber-Castell Perfection 7058 B eraser pencil.
 * Faber-Castell Estompe paper wiper.
+* Faber-Castell Albrecht Dürer Watercolour Markers.
+* Faber-Castell Art & Graphic Water Brush  
 * Staedtler Rasoplast 526 B.
 * FABRIANO Ecological Paper, A4, 85g/m^2.
 * Kraft paper, B6.
