@@ -46,6 +46,6 @@ Some drawing materials I personally use are listed below:
 * Faber-Castell Albrecht Dürer Watercolour Markers.
 * Faber-Castell Art & Graphic Water Brush.
 * Staedtler Rasoplast 526 B.
-* FABRIANO Ecological Paper, A4, 85g/m^2.
+* FABRIANO Ecological Paper, A4, 85g/m².
 * Kraft paper, B6.
 {: style="font-size:0.8em;"}
