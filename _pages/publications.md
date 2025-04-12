@@ -7,6 +7,23 @@ author_profile: true
 ---
 
 
+## Protocol for implementing the nested model for AI design and validation in compliance with AI regulations
+
+[![Protocol_one DOI]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/protocol_one_doi.svg)](https://doi.org/10.1016/j.xpro.2025.103771){:target="_blank"}
+
+[![Protocol_one image]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/protocol_one.webp)](https://doi.org/10.1016/j.xpro.2025.103771){:target="_blank"}
+
+Dubey, A., Yang, Z., **Anžel, A.**, & Hattab, G. (2025). *Protocol for implementing the nested model for AI design and validation in compliance with AI regulations*. STAR Protocols, 6(2), 103771. [https://doi.org/10.1016/j.xpro.2025.103771](https://doi.org/10.1016/j.xpro.2025.103771){:target="_blank"}.
+{: style="font-size:0.8em;"}
+
+
+---
+
+
+
+
+
+
 ## Current state and future prospects of Horizontal Gene Transfer detection
 
 [![HGT_one DOI]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/hgt_one_doi.svg)](https://doi.org/10.1093/nargab/lqaf005){:target="_blank"}
