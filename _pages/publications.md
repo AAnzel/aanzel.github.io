@@ -7,6 +7,21 @@ author_profile: true
 ---
 
 
+
+## Persona Adaptable Strategies Make Large Language Models Tractable
+
+[![Persona DOI]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/persona_doi.svg)](https://doi.org/10.1145/3711542.3711581){:target="_blank"}
+
+[![Persona image]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/persona.webp)](https://doi.org/10.1145/3711542.3711581){:target="_blank"}
+
+
+Hattab, G., **Anžel, A.**, Dubey, A., Ezekannagha, C., Yang, Z., & İlgen, B. (2025). *Persona Adaptable Strategies Make Large Language Models Tractable*. Proceedings of the 2024 8th International Conference on Natural Language Processing and Information Retrieval, 24–31. [https://doi.org/10.1145/3711542.3711581](https://doi.org/10.1145/3711542.3711581){:target="_blank"}.
+{: style="font-size:0.8em;"}
+
+
+---
+
+
 ## Protocol for implementing the nested model for AI design and validation in compliance with AI regulations
 
 [![Protocol_one DOI]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/protocol_one_doi.svg)](https://doi.org/10.1016/j.xpro.2025.103771){:target="_blank"}
@@ -18,10 +33,6 @@ Dubey, A., Yang, Z., **Anžel, A.**, & Hattab, G. (2025). *Protocol for implemen
 
 
 ---
-
-
-
-
 
 
 ## Current state and future prospects of Horizontal Gene Transfer detection
