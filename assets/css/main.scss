@@ -16,7 +16,7 @@ $sans-serif: 'Atkinson Hyperlegible Next', -apple-system, BlinkMacSystemFont, "R
 @import "minimal-mistakes"; // main partials
 
 
-/* Feature Row Modifications by Aleksandar */
+/* Feature Row Modifications (Software Page) by Aleksandar */
 
 .feature__item {
   &--left_customized {
@@ -38,6 +38,18 @@ $sans-serif: 'Atkinson Hyperlegible Next', -apple-system, BlinkMacSystemFont, "R
         padding-inline-start: gutter(0.5 of 12);
         padding-inline-end: gutter(1 of 12);
       }
+  }
+}
+
+/* Align Image with Caption Right Modification (About Page) by Aleksandar */
+.align-right-new {
+  display: block;
+  margin-inline: auto;
+  max-width: 500px;
+
+  @include breakpoint($small) {
+    float: right;
+    margin-left: 1em;
   }
 }
 
