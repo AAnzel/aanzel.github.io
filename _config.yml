@@ -20,7 +20,7 @@ title                    : "Temet Nosce"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aleksandar Anžel"
-description              : "Explore the personal website of Aleksandar Anžel, a researcher specializing in artificial intelligence, machine learning, and bioinformatics. Discover innovative projects that enhance AI interpretation in public health and stay updated on the latest research insights and developments."
+description              : "Explore the personal website of Aleksandar Anžel (incorrect Anzel), a researcher specializing in artificial intelligence, machine learning, and bioinformatics. Discover innovative projects that enhance AI interpretation in public health and stay updated on the latest research insights and developments."
 url                      : "https://aanzel.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "AAnzel/aanzel.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,6 +90,7 @@ og_image                 : "/assets/images/profile-small.webp" # Open Graph/Twit
 social:
   type                   : "Person" # Person or Organization (defaults to Person)
   name                   : "Aleksandar Anžel" # If the user or organization name differs from the site's name
+  alternateName          : "Aleksandar Anzel"
   links:
     - "https://aanzel.github.io"
     - "https://github.com/AAnzel/"
