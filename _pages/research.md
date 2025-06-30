@@ -11,7 +11,7 @@ author_profile: true
 
 My main research thesis is that computer science methods will profoundly accelerate and enable progress in and understanding of human biology and medicine overall. In particular, I am interested in:
 
-![Bioinformatics]({{ site.url }}{{ site.baseurl }}/assets/images/dna.webp "Bioinformatics"){: .align-right style="max-width: 180px;"}
+![Bioinformatics]({{ site.url }}{{ site.baseurl }}/assets/images/dna.webp "Bioinformatics"){: .align-right style="max-width: 180px;" alt="Aleksandar Anžel's (Aleksandar Anzel's) research interests."}
 
 * Bioinformatics
 * Artificial Intelligence for Biomedical Problems
