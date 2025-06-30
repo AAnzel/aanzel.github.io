@@ -8,39 +8,39 @@ author_profile: true
 gallery:
   - url: /assets/images/Kompresovani/david.webp
     image_path: /assets/images/Kompresovani/david.webp
-    alt: "David"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) old masters' replicas drawing collection. David"
     title: "David"
   - url: /assets/images/Kompresovani/skull.webp
     image_path: /assets/images/Kompresovani/skull.webp
-    alt: "Skull"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) old masters' replicas drawing collection. Skull"
     title: "Skull"
   - url: /assets/images/Kompresovani/waltz.webp
     image_path: /assets/images/Kompresovani/waltz.webp
-    alt: "Waltz"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) old masters' replicas drawing collection. Waltz"
     title: "Waltz"
   - url: /assets/images/Kompresovani/baby.webp
     image_path: /assets/images/Kompresovani/baby.webp
-    alt: "Baby"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) old masters' replicas drawing collection. Baby"
     title: "Baby"
   - url: /assets/images/Kompresovani/hercules.webp
     image_path: /assets/images/Kompresovani/hercules.webp
-    alt: "Hercules"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) old masters' replicas drawing collection. Hercules"
     title: "Hercules"
   - url: /assets/images/Kompresovani/cleopatra.webp
     image_path: /assets/images/Kompresovani/cleopatra.webp
-    alt: "Cleopatra"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) old masters' replicas drawing collection. Cleopatra"
     title: "Cleopatra"
   - url: /assets/images/Kompresovani/anger.webp
     image_path: /assets/images/Kompresovani/anger.webp
-    alt: "Anger"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) old masters' replicas drawing collection. Anger"
     title: "Anger"
   - url: /assets/images/Kompresovani/lucifer.webp
     image_path: /assets/images/Kompresovani/lucifer.webp
-    alt: "Lucifer"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) old masters' replicas drawing collection. Lucifer"
     title: "Lucifer"
   - url: /assets/images/Kompresovani/saturn.webp
     image_path: /assets/images/Kompresovani/saturn.webp
-    alt: "Saturn"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) old masters' replicas drawing collection. Saturn"
     title: "Saturn"
 
 ---

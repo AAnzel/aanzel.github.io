@@ -10,15 +10,15 @@ author_profile: true
 gallery:
   - url: /drawings/pop_culture/
     image_path: /assets/images/Kompresovani/hermione.webp
-    alt: "Pop Culture"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) drawing collections. Pop Culture"
     title: "Pop Culture"
   - url: /drawings/old_masters/
     image_path: /assets/images/Kompresovani/hercules.webp
-    alt: "Old Masters' replicas"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) drawing collections. Old Masters' replicas"
     title: "Old Masters' replicas"
   - url: /drawings/misc/
     image_path: /assets/images/Kompresovani/toscana.webp
-    alt: "Miscellaneous"
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) drawing collections. Miscellaneous"
     title: "Miscellaneous"
 
 ---
