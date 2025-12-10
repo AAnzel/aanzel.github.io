@@ -24,7 +24,7 @@ My main research thesis is that computer science methods will profoundly acceler
 {: .text-center style="font-size:0.9em;"}
 
 * Artificial Intelligence in Public Health Research. Berlin, Germany. (presenter)  
-Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.7490/f1000research.1120409.1)
+Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.7490/f1000research.1120409.1){:target="_blank"}
 {: style="font-size:0.8em;"}
 
 2024
