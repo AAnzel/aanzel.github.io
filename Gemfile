@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "wdm"
 gem "webrick"
 gem "csv"
 gem "mutex_m" # Added by me to suppress warnings and errors
