@@ -23,15 +23,14 @@ My main research thesis is that computer science methods will profoundly acceler
 2025
 {: .text-center style="font-size:0.9em;"}
 
-* Artificial Intelligence in Public Health Research. Berlin, Germany. (presenter)  
+* Bioinformatics and Computational Biology Conference (BBCC 2025). Naples, Italy. (presenter)
 Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.7490/f1000research.1120409.1){:target="_blank"}
 {: style="font-size:0.8em;"}
 
 2024
 {: .text-center style="font-size:0.9em;"}
 
-* Publication Workshop for Health Professionals: Communicating Insights. Berlin, Germany. 
-(presenter)
+* Publication Workshop for Health Professionals: Communicating Insights. Berlin, Germany. (presenter)
 *  Good Scientific Practice: From Data to AI. Berlin, Germany. (presenter)
 *  Serbian Society for Bioinformatics and Computational Biology (BiRBi) Seminar. Virtual. (presenter)
 {: style="font-size:0.8em;"}
