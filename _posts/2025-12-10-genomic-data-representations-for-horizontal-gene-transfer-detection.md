@@ -6,9 +6,6 @@ categories:
   - AMR
   - Machine-Learning
   - Bioinformatics
-tags:
-  - HGT-Detection
-  - RCKmer
 classes: wide
 ---
 

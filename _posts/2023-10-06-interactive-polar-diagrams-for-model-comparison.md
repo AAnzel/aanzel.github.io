@@ -5,10 +5,8 @@ categories:
   - Data-Visualization
   - Machine-Learning
   - Bioinformatics
-tags:
   - Model-Evaluation
-  - Statistics
-  - polar-diagrams
+  - Time-series
 classes: wide
 ---
 

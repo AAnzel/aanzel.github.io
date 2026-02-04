@@ -5,9 +5,7 @@ categories:
   - Molecular-Modeling
   - Machine-Learning
   - Bioinformatics
-tags:
-  - iCAN
-  - Peptide-Protein
+  - Peptide-Classification
 classes: wide
 ---
 

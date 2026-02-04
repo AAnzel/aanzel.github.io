@@ -5,9 +5,7 @@ categories:
   - Bioinformatics
   - Data-Visualization
   - Genomics
-  - AMR
-tags:
-  - Multi-omics
+  - User-Interfaces
   - Time-series
 classes: wide
 ---

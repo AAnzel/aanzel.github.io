@@ -5,9 +5,7 @@ categories:
   - Molecular-Modeling
   - Machine-Learning
   - Bioinformatics
-tags:
   - Peptide-Classification
-  - cmangoes
 classes: wide
 ---
 

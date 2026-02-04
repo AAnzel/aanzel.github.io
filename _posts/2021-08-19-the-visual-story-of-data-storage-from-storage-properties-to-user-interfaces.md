@@ -4,7 +4,6 @@ excerpt: Data creation is rapidly outpacing traditional storage, driving the nee
 categories:
   - Data-Visualization
   - Bioinformatics
-tags:
   - Storage-Technologies
   - User-Interfaces
 classes: wide

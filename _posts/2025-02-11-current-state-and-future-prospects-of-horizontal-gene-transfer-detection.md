@@ -6,9 +6,6 @@ categories:
   - AMR
   - Bioinformatics
   - Machine-Learning
-tags:
-  - HGT-Detection
-  - Review
 classes: wide
 ---
 

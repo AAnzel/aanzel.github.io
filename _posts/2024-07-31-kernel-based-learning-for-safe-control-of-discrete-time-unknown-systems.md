@@ -4,9 +4,6 @@ excerpt: Kernel ridge regression enables safe tracking control for high-order dy
 categories:
   - Machine-Learning
   - Control-Systems
-tags:
-  - Kernel-Methods
-  - Safety-Critical
 classes: wide
 ---
 
