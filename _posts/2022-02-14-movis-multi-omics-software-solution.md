@@ -17,7 +17,7 @@ classes: wide
 
 
 **Anžel, A.**, Heider, D., & Hattab, G. (2022). *MOVIS: A multi-omics software solution for multi-modal time-series clustering, embedding, and visualizing tasks*. Computational and Structural Biotechnology Journal, 20, 1044–1055. [https://doi.org/10.1016/j.csbj.2022.02.012](https://doi.org/10.1016/j.csbj.2022.02.012){:target="_blank"}.
-{: style="font-size:0.7em;"}
+{:.small-text}
 
 ---
 

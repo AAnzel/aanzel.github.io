@@ -48,4 +48,4 @@ Some drawing materials I personally use are listed below:
 * Staedtler Rasoplast 526 B.
 * FABRIANO Ecological Paper, A4, 85g/m².
 * Kraft paper, B6.
-{: style="font-size:0.8em;"}
+{:.medium-text}

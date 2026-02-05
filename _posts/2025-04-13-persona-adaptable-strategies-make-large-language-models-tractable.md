@@ -17,7 +17,7 @@ classes: wide
 
 
 Hattab, G., **Anžel, A.**, Dubey, A., Ezekannagha, C., Yang, Z., & İlgen, B. (2025). *Persona Adaptable Strategies Make Large Language Models Tractable*. Proceedings of the 2024 8th International Conference on Natural Language Processing and Information Retrieval, 24–31. [https://doi.org/10.1145/3711542.3711581](https://doi.org/10.1145/3711542.3711581){:target="_blank"}.
-{: style="font-size:0.7em;"}
+{:.small-text}
 
 ---
 

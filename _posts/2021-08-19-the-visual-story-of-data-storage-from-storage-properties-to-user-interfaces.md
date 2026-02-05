@@ -14,7 +14,7 @@ classes: wide
 [![TVSDS image]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/tvsds_Usage_name.webp)](https://doi.org/10.1016/j.csbj.2021.08.031){:target="_blank" alt="Aleksandar Anžel's (Aleksandar Anzel's) research image. The Visual Story of Data Storage: From Storage Properties to User Interfaces."}
 
 **Anžel, A.**, Heider, D., & Hattab, G. (2021). *The Visual Story of Data Storage: From Storage Properties to User Interfaces*. Computational and Structural Biotechnology Journal, 1(1), 1. [https://doi.org/10.1016/j.csbj.2021.08.031](https://doi.org/10.1016/j.csbj.2021.08.031){:target="_blank"}.
-{: style="font-size:0.7em;"}
+{:.small-text}
 
 
 ---

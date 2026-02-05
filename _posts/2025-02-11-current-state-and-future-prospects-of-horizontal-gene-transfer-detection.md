@@ -16,7 +16,7 @@ classes: wide
 
 
 Wijaya, A. J., **Anžel, A.**, Richard, H., & Hattab, G. (02 2025). *Current state and future prospects of Horizontal Gene Transfer detection*. NAR Genomics and Bioinformatics, 7(1), lqaf005. [https://doi.org/10.1093/nargab/lqaf005](https://doi.org/10.1093/nargab/lqaf005){:target="_blank"}.
-{: style="font-size:0.7em;"}
+{:.small-text}
 
 ---
 

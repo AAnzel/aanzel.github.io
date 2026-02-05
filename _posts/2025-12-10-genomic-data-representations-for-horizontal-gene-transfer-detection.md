@@ -16,7 +16,7 @@ classes: wide
 
 
 Wijaya, A. J., **Anžel, A.**, Richard, H., & Hattab, G. (12 2025). *Genomic data representations for horizontal gene transfer detection*. NAR Genomics and Bioinformatics, 7(4), lqaf165. [https://doi.org/10.1093/nargab/lqaf165](https://doi.org/10.1093/nargab/lqaf165){:target="_blank"}.
-{: style="font-size:0.7em;"}
+{:.small-text}
 
 ---
 

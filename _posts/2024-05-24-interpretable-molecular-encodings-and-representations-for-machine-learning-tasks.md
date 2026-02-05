@@ -16,7 +16,7 @@ classes: wide
 
 
 Weckbecker, M., **Anžel, A.**, Yang, Z., & Hattab, G. (2024). *Interpretable Molecular Encodings and Representations for Machine Learning Tasks*. Computational and Structural Biotechnology Journal, 23, 2326–2336. [https://doi.org/10.1016/j.csbj.2024.05.035](https://doi.org/10.1016/j.csbj.2024.05.035){:target="_blank"}.
-{: style="font-size:0.7em;"}
+{:.small-text}
 
 ---
 

@@ -15,7 +15,7 @@ classes: wide
 
 
 Dubey, A., Yang, Z., **Anžel, A.**, & Hattab, G. (2025). *Protocol for implementing the nested model for AI design and validation in compliance with AI regulations*. STAR Protocols, 6(2), 103771. [https://doi.org/10.1016/j.xpro.2025.103771](https://doi.org/10.1016/j.xpro.2025.103771){:target="_blank"}.
-{: style="font-size:0.7em;"}
+{:.small-text}
 
 ---
 

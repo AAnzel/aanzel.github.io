@@ -14,7 +14,7 @@ classes: wide
 
 
 Yang, Z., Dai, X., Yang, W., İlgen, B., **Anžel, A.**, & Hattab, G. (2024). *Kernel-based Learning for Safe Control of Discrete-Time Unknown Systems under Incomplete Observations*. 43rd Chinese Control Conference (CCC), Kunming, China, 2024, pp. 6627-6632. [https://doi.org/10.23919/CCC63176.2024.10662288](https://doi.org/10.23919/CCC63176.2024.10662288){:target="_blank"}.
-{: style="font-size:0.7em;"}
+{:.small-text}
 
 ---
 

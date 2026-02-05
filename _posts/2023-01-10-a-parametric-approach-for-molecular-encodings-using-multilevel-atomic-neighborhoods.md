@@ -16,7 +16,7 @@ classes: wide
 
 
 Hattab, G., **Anžel, A.**, Spänig, S., Neumann, N., & Heider, D. (01 2023). *A parametric approach for molecular encodings using multilevel atomic neighborhoods applied to peptide classification*. NAR Genomics and Bioinformatics, 5(1). [https://doi.org/10.1093/nargab/lqac103](https://doi.org/10.1093/nargab/lqac103){:target="_blank"}.
-{: style="font-size:0.7em;"}
+{:.small-text}
 
 ---
 

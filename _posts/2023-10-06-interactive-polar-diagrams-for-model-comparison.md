@@ -16,7 +16,7 @@ classes: wide
 
 
 **Anžel, A.**, Heider, D., & Hattab, G. (2023). *Interactive polar diagrams for model comparison*. Computer Methods and Programs in Biomedicine, 242, 107843. [https://doi.org/10.1016/j.cmpb.2023.107843](https://doi.org/10.1016/j.cmpb.2023.107843){:target="_blank"}.
-{: style="font-size:0.7em;"}
+{:.small-text}
 
 ---
 
