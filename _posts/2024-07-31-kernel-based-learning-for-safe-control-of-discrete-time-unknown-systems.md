@@ -19,4 +19,4 @@ Yang, Z., Dai, X., Yang, W., İlgen, B., **Anžel, A.**, & Hattab, G. (2024). *K
 ---
 
 Safe control for dynamical systems is critical, yet the presence of unknown dynamics poses significant challenges. In this paper, we present a learning-based control approach for tracking control of a class of high-order systems, operating under the constraint of partially observable states. The uncertainties inherent within the systems are modeled by kernel ridge regression, leveraging the proposed strategic data acquisition approach with limited state measurements. To achieve accurate trajectory tracking, a state observer that seamlessly integrates with the control law is devised. The analysis of the guaranteed control performance is conducted using Lyapunov theory due to the deterministic prediction error bound of kernel ridge regression, ensuring the adaptability of the approach in safety-critical scenarios. To demonstrate the effectiveness of our proposed approach, numerical simulations are performed, underscoring its contributions to the advancement of control strategies.
-{: .notice}
+{:.notice}

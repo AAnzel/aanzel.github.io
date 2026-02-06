@@ -28,4 +28,4 @@ Results
 Our library presents the first publicly available implementation of the Mutual Information Diagram and its new interactive capabilities, as well as the first publicly available implementation of an interactive Taylor Diagram. Extensions have been implemented so that both diagrams can display temporality, multimodality, and multivariate data sets, and feature one scalar model property such as uncertainty. Our library, named polar-diagrams, supports both continuous and categorical attributes.  
 Conclusion  
 The library can be used to quickly and easily assess the performances of complex models, such as those found in machine learning, climate, or biomedical domains.
-{: .notice}
+{:.notice}

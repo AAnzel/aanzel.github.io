@@ -122,3 +122,11 @@ $sans-serif:
 .medium-text {
     font-size: 0.85em !important;
 }
+
+/* Mimic of archive years for the Research page. Modifications by Aleksandar */
+.archive_subtitle_new {
+    margin: 1.414em 0 0.3em;
+    padding-top: 0.5em;
+    font-size: $type-size-5;
+    color: $muted-text-color;
+}

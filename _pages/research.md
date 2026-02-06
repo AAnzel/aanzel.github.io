@@ -18,17 +18,17 @@ My main research thesis is that computer science methods will profoundly acceler
 * Data Visualization
 
 
-### Selected events
+## Selected events
 
 2025
-{: .text-center}
+{:.archive_subtitle_new}
 
 * Bioinformatics and Computational Biology Conference (BBCC 2025). Naples, Italy. (presenter)  
 Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.7490/f1000research.1120409.1){:target="_blank"}
 {:.medium-text}
 
 2024
-{:.text-center}
+{:.archive_subtitle_new}
 
 * Publication Workshop for Health Professionals: Communicating Insights. Berlin, Germany. (presenter)
 *  Good Scientific Practice: From Data to AI. Berlin, Germany. (presenter)
@@ -36,21 +36,21 @@ Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.749
 {:.medium-text}
 
 2023
-{:.text-center}
+{:.archive_subtitle_new}
 
 * Artificial Intelligence in Public Health Research. Berlin, Germany. (organizer, attendee)
 * Future Bioinformatics Workshop. Herborn, Germany. (attendee)
 {:.medium-text}
 
 2022
-{:.text-center}
+{:.archive_subtitle_new}
 
 * Future Bioinformatics Workshop. Ebsdorfergrund, Germany. (presenter)
 * The 1st International Conference on Data Storage in Molecular Media. Virtual. (attendee, co-host)
 {:.medium-text}
 
 2021
-{:.text-center}
+{:.archive_subtitle_new}
 
 * IEEE Visualization Conference (VIS). Virtual. (attendee)
 * Oxford ML Summer School. Virtual. (attendee)
@@ -59,23 +59,23 @@ Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.749
 {:.medium-text}
 
 2020
-{:.text-center}
+{:.archive_subtitle_new}
 
 * IEEE Visualization Conference (VIS). Virtual. (attendee)
 * Eurographics & Eurovis (EGEV). Virtual. (attendee)
 {:.medium-text}
 
 
-### Teaching
+## Teaching
 
 2023
-{:.text-center}
+{:.archive_subtitle_new}
 
 * **Lecture** Machine Learning. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator, tutor)
 {:.medium-text}
 
 2022
-{:.text-center}
+{:.archive_subtitle_new}
 
 * **Group student project (Projektarbeit)** DNA Storage Encodings. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, tutor)
 * **Guest lecture** Molecules as storage media for long-term data storage. Faculty of Mathematics, University of Belgrade. Belgrade, Serbia. (presenter)
@@ -84,14 +84,14 @@ Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.749
 {:.medium-text}
 
 2021
-{:.text-center}
+{:.archive_subtitle_new}
 
 * **Lecture** Data Visualization. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (collaborator)
 * **Seminar** Information Theory Tools for Visual Computing. Department of Mathematics and Computer Science, University of Marburg. Marburg, Germany. (co-organizer, presenter)
 {:.medium-text}
 
 
-### Scientific Committees and Societies
+## Scientific Committees and Societies
 
 * [German Alliance for Global Health Research (GLOHRA)](https://globalhealth.de/index.html){:target="_blank"}. Secretariat c/o Charité Universitätsmedizin Berlin Charitéplatz 1, 10117 Berlin, Germany.
 * [Serbian Society for Bioinformatics and Computational Biology (BiRBi)](http://birbi.matf.bg.ac.rs/index.php/en/birbi-en/){:target="_blank"}. Faculty of Mathematics, University of Belgrade, Studentski trg 16, 11000 Belgrade.
