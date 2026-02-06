@@ -39,30 +39,20 @@ Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.749
 {:.archive_subtitle_new}
 
 * Artificial Intelligence in Public Health Research. Berlin, Germany. (organizer, attendee)
-* Future Bioinformatics Workshop. Herborn, Germany. (attendee)
+* Future Bioinformatics Workshop. Herborn, Germany. (attendee, co-host)
 {:.medium-text}
 
 2022
 {:.archive_subtitle_new}
 
-* Future Bioinformatics Workshop. Ebsdorfergrund, Germany. (presenter)
+* Future Bioinformatics Workshop. Ebsdorfergrund, Germany. (presenter, co-host)
 * The 1st International Conference on Data Storage in Molecular Media. Virtual. (attendee, co-host)
 {:.medium-text}
 
 2021
 {:.archive_subtitle_new}
 
-* IEEE Visualization Conference (VIS). Virtual. (attendee)
-* Oxford ML Summer School. Virtual. (attendee)
-* Bio+Med+Vis Spring School. Virtual. (attendee)
 * Symposium on Interdisciplinary Bioinformatics and Biomedical Data Science (IBBMDS). Marburg, Germany. (presenter)
-{:.medium-text}
-
-2020
-{:.archive_subtitle_new}
-
-* IEEE Visualization Conference (VIS). Virtual. (attendee)
-* Eurographics & Eurovis (EGEV). Virtual. (attendee)
 {:.medium-text}
 
 
