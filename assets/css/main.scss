@@ -27,7 +27,7 @@ $sans-serif:
 
 .feature__item {
     &--left_customized {
-        font-size: $h-size-3;
+        font-size: $type-size-4;
         float: inline-start;
 
         .archive__item {
@@ -135,4 +135,8 @@ $sans-serif:
 /* Publications archive adding bottom margin. Modifications by Aleksandar */
 .taxonomy__index {
     padding-bottom: 3em;
+    a {
+        font-weight: bold;
+        color: black;
+    }
 }
