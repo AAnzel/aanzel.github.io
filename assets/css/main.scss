@@ -131,3 +131,8 @@ $sans-serif:
     font-weight: bold;
     color: $muted-text-color;
 }
+
+/* Publications archive adding bottom margin. Modifications by Aleksandar */
+.taxonomy__index {
+    padding-bottom: 3em;
+}

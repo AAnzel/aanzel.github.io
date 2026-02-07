@@ -8,4 +8,3 @@ entries_layout: grid
 ---
 
 <br>
-<br>
