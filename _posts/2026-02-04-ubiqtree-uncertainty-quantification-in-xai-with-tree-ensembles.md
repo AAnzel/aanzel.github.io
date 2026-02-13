@@ -7,6 +7,8 @@ categories:
   - Explainable-AI
   - AI-Ethics
 classes: wide
+header:
+  teaser: /assets/images/Publication_images/ubiqtree_overview.webp
 ---
 
 <br>

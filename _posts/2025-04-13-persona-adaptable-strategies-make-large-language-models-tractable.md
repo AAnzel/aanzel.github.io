@@ -8,6 +8,8 @@ categories:
   - Explainable-AI
   - Large-Language-Models
 classes: wide
+header:
+  teaser: /assets/images/Publication_images/persona.webp
 ---
 
 <br>

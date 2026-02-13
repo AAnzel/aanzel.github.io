@@ -8,6 +8,8 @@ categories:
   - Model-Evaluation
   - Time-series
 classes: wide
+header:
+  teaser: /assets/images/Publication_images/polar_overview.webp
 ---
 
 <br>

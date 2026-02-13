@@ -6,6 +6,8 @@ categories:
   - Machine-Learning
   - Bioinformatics
 classes: wide
+header:
+  teaser: /assets/images/Publication_images/protocol_one.webp
 ---
 
 <br>

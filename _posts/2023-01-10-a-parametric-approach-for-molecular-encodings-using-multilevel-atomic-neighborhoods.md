@@ -7,6 +7,8 @@ categories:
   - Bioinformatics
   - Peptide-Classification
 classes: wide
+header:
+  teaser: /assets/images/Publication_images/parametric_results.webp
 ---
 
 <br>

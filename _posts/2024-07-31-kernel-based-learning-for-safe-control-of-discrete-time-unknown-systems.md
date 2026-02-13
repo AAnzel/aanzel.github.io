@@ -5,6 +5,8 @@ categories:
   - Machine-Learning
   - Control-Systems
 classes: wide
+header:
+  teaser: /assets/images/Publication_images/Kernel_based.webp
 ---
 
 <br>

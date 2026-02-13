@@ -7,6 +7,8 @@ categories:
   - Bioinformatics
   - Machine-Learning
 classes: wide
+header:
+  teaser: /assets/images/Publication_images/hgt_one.webp
 ---
 
 <br>

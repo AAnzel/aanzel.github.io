@@ -8,6 +8,8 @@ categories:
   - User-Interfaces
   - Time-series
 classes: wide
+header:
+  teaser: /assets/images/Publication_images/movis_overview.webp
 ---
 
 <br>

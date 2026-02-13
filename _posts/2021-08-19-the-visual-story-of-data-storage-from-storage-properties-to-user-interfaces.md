@@ -7,6 +7,8 @@ categories:
   - Storage-Technologies
   - User-Interfaces
 classes: wide
+header:
+  teaser: /assets/images/Publication_images/tvsds_Usage_name.webp
 ---
 
 <br>
