@@ -17,7 +17,7 @@ header:
 [![UbiQTree image]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/ubiqtree_overview.webp)](https://doi.org/10.1016/j.patter.2025.101454){:target="_blank" alt="Aleksandar Anžel's (Aleksandar Anzel's) research image. UbiQTree: Uncertainty quantification in XAI with tree ensembles."}
 
 
-Dubey, A., **Anžel, A.**, İlgen, B., & Hattab, G. (02 2026). *UbiQTree: Uncertainty quantification in XAI with tree ensembles*. Patterns. [https://doi.org/10.1016/j.patter.2025.101454](https://doi.org/10.1016/j.patter.2025.101454){:target="_blank"}.
+Dubey, A., **Anžel, A.**, İlgen, B., & Hattab, G. (02 2026). *UbiQTree: Uncertainty quantification in XAI with tree ensembles*. Patterns (New York, N.Y.), (101454), 101454. [https://doi.org/10.1016/j.patter.2025.101454](https://doi.org/10.1016/j.patter.2025.101454){:target="_blank"}.
 {:.small-text}
 
 
