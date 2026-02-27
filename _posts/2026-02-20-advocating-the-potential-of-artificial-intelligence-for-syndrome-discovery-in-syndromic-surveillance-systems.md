@@ -1,5 +1,5 @@
 ---
-title: "Advocating the potential of artificial intelligence for syndrome discovery in syndromic surveillance systems: A scoping review."
+title: "Advocating the potential of artificial intelligence for syndrome discovery in syndromic surveillance systems: A scoping review"
 excerpt: This scoping review examines the role of artificial intelligence in advancing syndromic surveillance, analyzing 15 key studies to provide eight strategic recommendations for improving methodology, data handling, and open science practices in global disease detection.
 categories:
   - Machine-Learning
