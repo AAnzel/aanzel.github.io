@@ -1,0 +1,19 @@
+<!-- Reusable BibTeX Accordion -->
+<!-- Added by Aleksandar -->
+
+<!-- TOC-Style BibTeX Accordion -->
+<div class="accordion-toc-wrapper" id="accordion-{{ include.id }}">
+    <input
+        type="checkbox"
+        id="accordion-{{ include.id }}-toggle"
+        class="accordion-toc-toggle"
+    />
+    <label for="accordion-{{ include.id }}-toggle" class="accordion-toc-label">
+        <span class="accordion-toc-text">{{ include.label }}</span>
+        <i
+            class="fas fa-chevron-down fa-fw accordion-toc-icon"
+            aria-hidden="true"
+        ></i>
+    </label>
+    <div class="accordion-toc-content" markdown="1">{{ include.content }}</div>
+</div>

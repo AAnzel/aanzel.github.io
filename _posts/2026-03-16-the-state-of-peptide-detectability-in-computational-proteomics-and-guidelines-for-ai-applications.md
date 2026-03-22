@@ -15,8 +15,31 @@ header:
 [![Peptide detectability]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/peptide_detectability.webp)](https://doi.org/10.34133/csbj.0037){:target="_blank" alt="Aleksandar Anžel's (Aleksandar Anzel's) research image. The State of Peptide Detectability in Computational Proteomics and Guidelines for AI Applications."}
 
 
-Schilling, V., **Anžel, A.**, Doellinger, J., Lasch, P., Heider, D., & Hattab, G. (2026). *The state of peptide detectability in computational proteomics and guidelines for AI applications*. Computational and Structural Biotechnology Journal, (csbj.0037). [https://doi.org/10.34133/csbj.0037](https://doi.org/10.34133/csbj.0037){:target="_blank"}.
-{:.small-text}
+{% assign label-html = "Schilling, V., **Anžel, A.**, Doellinger, J., Lasch, P., Heider, D., & Hattab, G. (2026). *The state of peptide detectability in computational proteomics and guidelines for AI applications*. Computational and Structural Biotechnology Journal, (csbj.0037). [https://doi.org/10.34133/csbj.0037](https://doi.org/10.34133/csbj.0037){:target='_blank'}
+{:.small-text}" | markdownify %}
+
+{% capture schilling2026 %}
+```bibtex
+@article{
+doi:10.34133/csbj.0037,
+author = {Vincent Schilling  and Aleksandar Anžel  and Joerg Doellinger  and Peter Lasch  and Dominik Heider  and Georges Hattab },
+title = {The State of Peptide Detectability in Computational Proteomics and Guidelines for AI Applications},
+journal = {Computational and Structural Biotechnology Journal},
+volume = {0},
+number = {ja},
+pages = {},
+year = {},
+doi = {10.34133/csbj.0037},
+URL = {https://spj.science.org/doi/abs/10.34133/csbj.0037},
+eprint = {https://spj.science.org/doi/pdf/10.34133/csbj.0037}}
+```
+{% endcapture %}
+
+{% include accordion.html
+id="2026-03-16-the-state-of-peptide-detectability-in-computational-proteomics-and-guidelines-for-ai-applications"
+label=label-html
+content=schilling2026
+%}
 
 
 ---
@@ -30,4 +53,3 @@ To address these challenges, we propose actionable guidelines focused on transpa
 Encouragingly, recent tools demonstrate that such standards can be met in practice.
 Furthermore, we outline a future research agenda that emphasizes the integration of structural biology frameworks, the transition toward data-independent acquisition datasets, and the development of explainable AI to ensure models are both biologically interpretable and transferable across evolving instrument platforms.
 While centered on peptide detectability, these principles offer valuable insights and can inform future work across a wide range of computational proteomics applications.
-{:.notice}

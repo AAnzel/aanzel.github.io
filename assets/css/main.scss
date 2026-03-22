@@ -21,6 +21,25 @@ $sans-serif:
 /* Variables Modifications by Aleksandar */
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+/* solarized light syntax highlighting (base16) */
+$base00: #fafafa !default;
+$base01: #073642 !default;
+$base02: #586e75 !default;
+$base03: #657b83 !default;
+$base04: #839496 !default;
+$base05: #586e75 !default;
+$base06: #eee8d5 !default;
+$base07: #fdf6e3 !default;
+$base08: #dc322f !default;
+$base09: #cb4b16 !default;
+$base0a: #b58900 !default;
+$base0b: #859900 !default;
+$base0c: #2aa198 !default;
+$base0d: #268bd2 !default;
+$base0e: #6c71c4 !default;
+$base0f: #d33682 !default;
+
 @import "minimal-mistakes"; // main partials
 
 /* Feature Row Modifications (Software Page) by Aleksandar */
@@ -143,4 +162,71 @@ $sans-serif:
 
 .taxonomy__section {
     padding-bottom: 0em;
+}
+
+/* Accordion-collapsible used for bibtex citations in publications. */
+/* Added by Aleksandar */
+
+// TOC-Style Accordion (Matches theme sidebar TOC)
+.accordion-toc-wrapper {
+    border: 1px solid #e5e5e5;
+    border-radius: 0.3rem;
+    margin-bottom: 1rem;
+    overflow: hidden;
+}
+
+.accordion-toc-toggle {
+    display: none;
+}
+
+.accordion-toc-label {
+    display: flex !important;
+    align-items: center;
+    padding: 0.75rem 1rem !important;
+    cursor: pointer !important;
+    line-height: 1.4 !important;
+    margin: 0 !important;
+    position: relative !important;
+    transition: background-color 0.2s ease !important;
+
+    &:hover {
+        background: #f0f0f0 !important;
+    }
+}
+
+.accordion-toc-text {
+    flex: 1;
+    margin-right: 0.5rem;
+}
+
+.accordion-toc-label i.accordion-toc-icon {
+    margin-left: auto !important;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.accordion-toc-toggle:checked + .accordion-toc-label i.accordion-toc-icon {
+    transform: rotate(180deg) !important;
+}
+
+.accordion-toc-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    background: white;
+}
+
+.accordion-toc-toggle:checked + .accordion-toc-label + .accordion-toc-content {
+    max-height: 2000px !important;
+}
+
+.accordion-toc-content .highlighter-rouge {
+    margin: 1rem !important;
+    border-radius: 0.3rem !important;
+}
+
+/* Modification by Aleksandar to change copy-to-clipboard button color */
+pre {
+    &.highlight .clipboard-copy-button {
+        color: #121212;
+    }
 }
