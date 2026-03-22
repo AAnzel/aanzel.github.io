@@ -22,7 +22,7 @@ header:
 
 {% capture dubey20262 %}
 ```bibtex
-﻿@Article{ref1,
+@Article{ref1,
 author={Dubey, Akshat
 and An{\v{z}}el, Aleksandar
 and {\.{I}}lgen, Bahar
