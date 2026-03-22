@@ -42,7 +42,7 @@ url={https://doi.org/10.1016/j.csbj.2021.08.031}
 {% endcapture %}
 
 {% include accordion.html
-id="2026-03-16-the-state-of-peptide-detectability-in-computational-proteomics-and-guidelines-for-ai-applications"
+id="2021-08-19-the-visual-story-of-data-storage-from-storage-properties-to-user-interfaces"
 label=label-html
 content=anzel2021
 %}
