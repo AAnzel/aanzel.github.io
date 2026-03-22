@@ -17,8 +17,40 @@ header:
 [![Polar Diagrams image]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/polar_overview.webp)](https://doi.org/10.1016/j.cmpb.2023.107843){:target="_blank" alt="Aleksandar Anžel's (Aleksandar Anzel's) research image. Interactive polar diagrams for model comparison."}
 
 
-**Anžel, A.**, Heider, D., & Hattab, G. (2023). *Interactive polar diagrams for model comparison*. Computer Methods and Programs in Biomedicine, 242, 107843. [https://doi.org/10.1016/j.cmpb.2023.107843](https://doi.org/10.1016/j.cmpb.2023.107843){:target="_blank"}.
-{:.small-text}
+{% assign label-html = "**Anžel, A.**, Heider, D., & Hattab, G. (2023). *Interactive polar diagrams for model comparison*. Computer Methods and Programs in Biomedicine, 242, 107843. [https://doi.org/10.1016/j.cmpb.2023.107843](https://doi.org/10.1016/j.cmpb.2023.107843){:target='_blank'}
+{:.small-text}" | markdownify %}
+
+{% capture anzel2023 %}
+```bibtex
+@article{ANZEL2023107843,
+title = {Interactive polar diagrams for model comparison},
+journal = {Computer Methods and Programs in Biomedicine},
+volume = {242},
+pages = {107843},
+year = {2023},
+issn = {0169-2607},
+doi = {https://doi.org/10.1016/j.cmpb.2023.107843},
+url = {https://www.sciencedirect.com/science/article/pii/S0169260723005096},
+author = {Aleksandar Anžel and Dominik Heider and Georges Hattab},
+keywords = {Bioinformatics, Machine-learning, Visualization, Evaluation, Climate, Comparison, Ai, Data-visualization, Information-visualization, Predictive-analysis, Model-comparison, Climate-model-visualization, Ml-model-evaluation, Taylor-diagram, Mutual-information-diagram, Entropy, Mutual-information, Variation-of-information, Correlation, Medical-data},
+abstract = {Objective
+Evaluating the performance of multiple complex models, such as those found in biology, medicine, climatology, and machine learning, using conventional approaches is often challenging when using various evaluation metrics simultaneously. The traditional approach, which relies on presenting multi-model evaluation scores in the table, presents an obstacle when determining the similarities between the models and the order of performance.
+Methods
+By combining statistics, information theory, and data visualization, juxtaposed Taylor and Mutual Information Diagrams permit users to track and summarize the performance of one model or a collection of different models. To uncover linear and nonlinear relationships between models, users may visualize one or both charts.
+Results
+Our library presents the first publicly available implementation of the Mutual Information Diagram and its new interactive capabilities, as well as the first publicly available implementation of an interactive Taylor Diagram. Extensions have been implemented so that both diagrams can display temporality, multimodality, and multivariate data sets, and feature one scalar model property such as uncertainty. Our library, named polar-diagrams, supports both continuous and categorical attributes.
+Conclusion
+The library can be used to quickly and easily assess the performances of complex models, such as those found in machine learning, climate, or biomedical domains.}
+}
+```
+{% endcapture %}
+
+{% include accordion.html
+id="2023-10-06-interactive-polar-diagrams-for-model-comparison"
+label=label-html
+content=anzel2023
+%}
+
 
 ---
 
@@ -30,4 +62,3 @@ Results
 Our library presents the first publicly available implementation of the Mutual Information Diagram and its new interactive capabilities, as well as the first publicly available implementation of an interactive Taylor Diagram. Extensions have been implemented so that both diagrams can display temporality, multimodality, and multivariate data sets, and feature one scalar model property such as uncertainty. Our library, named polar-diagrams, supports both continuous and categorical attributes.  
 Conclusion  
 The library can be used to quickly and easily assess the performances of complex models, such as those found in machine learning, climate, or biomedical domains.
-{:.notice}
