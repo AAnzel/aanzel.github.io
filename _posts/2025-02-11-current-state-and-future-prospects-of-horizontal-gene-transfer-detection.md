@@ -17,10 +17,35 @@ header:
 [![HGT_one image]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/hgt_one.webp)](https://doi.org/10.1093/nargab/lqaf005){:target="_blank" alt="Aleksandar Anžel's (Aleksandar Anzel's) research image. Current state and future prospects of Horizontal Gene Transfer detection."}
 
 
-Wijaya, A. J., **Anžel, A.**, Richard, H., & Hattab, G. (02 2025). *Current state and future prospects of Horizontal Gene Transfer detection*. NAR Genomics and Bioinformatics, 7(1), lqaf005. [https://doi.org/10.1093/nargab/lqaf005](https://doi.org/10.1093/nargab/lqaf005){:target="_blank"}.
-{:.small-text}
+{% assign label-html = "Wijaya, A. J., **Anžel, A.**, Richard, H., & Hattab, G. (02 2025). *Current state and future prospects of Horizontal Gene Transfer detection*. NAR Genomics and Bioinformatics, 7(1), lqaf005. [https://doi.org/10.1093/nargab/lqaf005](https://doi.org/10.1093/nargab/lqaf005){:target='_blank'}
+{:.small-text}" | markdownify %}
+
+{% capture wijaya2025 %}
+```bibtex
+@article{10.1093/nargab/lqaf005,
+    author = {Wijaya, Andre Jatmiko and Anžel, Aleksandar and Richard, Hugues and Hattab, Georges},
+    title = {Current state and future prospects of Horizontal Gene Transfer detection},
+    journal = {NAR Genomics and Bioinformatics},
+    volume = {7},
+    number = {1},
+    pages = {lqaf005},
+    year = {2025},
+    month = {02},
+    abstract = {Artificial intelligence (AI) has been shown to be beneficial in a wide range of bioinformatics applications. Horizontal Gene Transfer (HGT) is a driving force of evolutionary changes in prokaryotes. It is widely recognized that it contributes to the emergence of antimicrobial resistance (AMR), which poses a particularly serious threat to public health. Many computational approaches have been developed to study and detect HGT. However, the application of AI in this field has not been investigated. In this work, we conducted a review to provide information on the current trend of existing computational approaches for detecting HGT and to decipher the use of AI in this field. Here, we show a growing interest in HGT detection, characterized by a surge in the number of computational approaches, including AI-based approaches, in recent years. We organize existing computational approaches into a hierarchical structure of computational groups based on their computational methods and show how each computational group evolved. We make recommendations and discuss the challenges of HGT detection in general and the adoption of AI in particular. Moreover, we provide future directions for the field of HGT detection.},
+    issn = {2631-9268},
+    doi = {10.1093/nargab/lqaf005},
+    url = {https://doi.org/10.1093/nargab/lqaf005},
+    eprint = {https://academic.oup.com/nargab/article-pdf/7/1/lqaf005/61841688/lqaf005.pdf},
+}
+```
+{% endcapture %}
+
+{% include accordion.html
+id="2025-02-11-current-state-and-future-prospects-of-horizontal-gene-transfer-detection"
+label=label-html
+content=wijaya2025
+%}
 
 ---
 
 Artificial intelligence (AI) has been shown to be beneficial in a wide range of bioinformatics applications. Horizontal Gene Transfer (HGT) is a driving force of evolutionary changes in prokaryotes. It is widely recognized that it contributes to the emergence of antimicrobial resistance (AMR), which poses a particularly serious threat to public health. Many computational approaches have been developed to study and detect HGT. However, the application of AI in this field has not been investigated. In this work, we conducted a review to provide information on the current trend of existing computational approaches for detecting HGT and to decipher the use of AI in this field. Here, we show a growing interest in HGT detection, characterized by a surge in the number of computational approaches, including AI-based approaches, in recent years. We organize existing computational approaches into a hierarchical structure of computational groups based on their computational methods and show how each computational group evolved. We make recommendations and discuss the challenges of HGT detection in general and the adoption of AI in particular. Moreover, we provide future directions for the field of HGT detection.
-{:.notice}
