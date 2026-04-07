@@ -25,13 +25,15 @@ doi:10.34133/csbj.0037,
 author = {Vincent Schilling  and Aleksandar Anžel  and Joerg Doellinger  and Peter Lasch  and Dominik Heider  and Georges Hattab },
 title = {The State of Peptide Detectability in Computational Proteomics and Guidelines for AI Applications},
 journal = {Computational and Structural Biotechnology Journal},
-volume = {0},
-number = {ja},
-pages = {},
-year = {},
+volume = {35},
+number = {1},
+pages = {0037},
+year = {2026},
 doi = {10.34133/csbj.0037},
 URL = {https://spj.science.org/doi/abs/10.34133/csbj.0037},
-eprint = {https://spj.science.org/doi/pdf/10.34133/csbj.0037}}
+eprint = {https://spj.science.org/doi/pdf/10.34133/csbj.0037},
+abstract = {Artificial intelligence (AI) techniques have transformed proteomics and computational biology over the past decade, particularly in mass spectrometry tasks such as fragment spectra prediction, retention time prediction, and peptide detectability prediction. However, as the volume of proteomics data grows, the need for robust, reproducible, and comparable AI applications has become increasingly urgent. Here, we present a comprehensive scoping review of AI techniques for peptide detectability, an essential and rapidly evolving problem in computational proteomics. By analyzing more than 25 peer-reviewed methods published between 2006 and 2025, we identify a persistent discrepancy between increasing algorithmic sophistication and consistent adherence to established machine learning standards. Current studies frequently exhibit heterogeneity in dataset construction, limited transparency in model design and evaluation, and restricted reproducibility. To address these challenges, we propose actionable guidelines focused on transparent technical reporting, rigorous dataset separation, comprehensive performance evaluation, and reproducibility. Encouragingly, recent tools demonstrate that such standards can be met in practice. Furthermore, we outline a future research agenda that emphasizes the integration of structural biology frameworks, the transition toward data-independent acquisition datasets, and the development of explainable AI to ensure models are both biologically interpretable and transferable across evolving instrument platforms. While centered on peptide detectability, these principles offer valuable insights and can inform future work across a wide range of computational proteomics applications.
+}}
 ```
 {% endcapture %}
 
