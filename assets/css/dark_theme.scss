@@ -1,0 +1,63 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+/* Variables Modifications by Aleksandar */
+
+$serif: "Atkinson Hyperlegible Next", Georgia, Times, serif !default;
+$sans-serif:
+    "Atkinson Hyperlegible Next",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Roboto",
+    "Segoe UI",
+    "Helvetica Neue",
+    "Lucida Grande",
+    Arial,
+    sans-serif !default;
+
+/* Colors modified from Neon theme by Aleksandar */
+$background-color: #141010 !default;
+$text-color: #fff6fb !default;
+$primary-color: #d3d3d3 !default;
+$muted-text-color: mix(#000, $text-color, 20%) !default;
+$border-color: mix(#fff, $background-color, 20%) !default;
+$code-background-color: mix(#000, $background-color, 15%) !default;
+$code-background-color-dark: mix(#000, $background-color, 20%) !default;
+$form-background-color: mix(#000, $background-color, 15%) !default;
+$footer-background-color: mix($primary-color, #000, 10%) !default;
+$info-color: #3b9cba !default;
+$link-color: mix(#fff, $info-color, 60%) !default;
+$link-color-hover: mix(#fff, $link-color, 55%) !default;
+$link-color-visited: mix(#000, $link-color, 15%) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+
+/* notices */
+$notice-background-mix: 90% !default;
+$code-notice-background-mix: 95% !default;
+
+/* contrast syntax highlighting (base16) */
+$base00: #000000;
+$base01: #242422;
+$base02: #484844;
+$base03: #6c6c66;
+$base04: #918f88;
+$base05: #b5b3aa;
+$base06: #d9d7cc;
+$base07: #fdfbee;
+$base08: #ff6c60;
+$base09: #e9c062;
+$base0a: #ffffb6;
+$base0b: #a8ff60;
+$base0c: #c6c5fe;
+$base0d: #96cbfe;
+$base0e: #ff73fd;
+$base0f: #b18a3d;
+
+@import "minimal-mistakes"; // main partials
+
+@import "aleksandar_modified_elements"; // custom partials
