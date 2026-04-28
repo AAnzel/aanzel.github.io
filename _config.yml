@@ -304,3 +304,6 @@ defaults:
       comments: false
       share: false
       related: false
+
+after_footer_scripts:
+ - /assets/js/dark-mode.js # Added by Aleksandar for the dark mode

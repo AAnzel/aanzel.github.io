@@ -198,3 +198,35 @@ pre {
     color: $background-color;
     background: $text-color;
 }
+
+.masthead__theme-toggle {
+    /* remove standard button chrome */
+    background: none;
+    border: 0;
+    box-shadow: none;
+    border-radius: 0;
+
+    /* make it behave like an icon */
+    padding: 0;
+    margin-left: 0.5rem;
+    line-height: 1;
+
+    /* inherit text/icon color from masthead */
+    color: inherit;
+}
+
+.masthead__theme-toggle:hover {
+    color: $primary-color; // or set a subtle hover color if you want
+}
+
+.masthead__theme-toggle:focus {
+    background: none;
+    box-shadow: none;
+    color: inherit; // or set a subtle hover color if you want
+}
+
+/* size the icon itself */
+.masthead__theme-toggle .fa-sun,
+.masthead__theme-toggle .fa-moon {
+    font-size: 1rem;
+}
