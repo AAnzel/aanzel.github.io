@@ -7,4 +7,4 @@ bundle exec jekyll build
 bundle exec jekyll serve
 ```
 
-`magick -density 300 input.pdf -background none -resize 1920x -quality 100 output.webp`
+`magick -density 300 input.pdf -background white -alpha remove -alpha off -resize 1920x -quality 100 output.webp`
