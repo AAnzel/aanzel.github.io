@@ -1,0 +1,6 @@
+{% if page.page_particles %} {% for script in page.page_particles %} {% if
+script contains "://" %}
+<script src="{{ script }}"></script>
+{% else %}
+<script src="{{ script | relative_url }}"></script>
+{% endif %} {% endfor %} {% endif %}
