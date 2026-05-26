@@ -11,14 +11,14 @@ feature_row_13:
     excerpt: "**OSI** is an open-source collaborative initiative and multitool ecosystem rather than a singular software application. It standardizes disease surveillance through machine-readable case and syndrome definitions, provides tooling to convert text-based definitions into standardized JSON, and supports implementation, analysis, and contribution workflows for practitioners, researchers, and developers. The platform emphasizes transparency, community-driven development, and continuous improvement, making standardized medical knowledge more accessible for surveillance systems, clinical education, and machine learning research. [GitHub repository](https://github.com/OpenSyndrome){:target='_blank'}."
 
 feature_row_12:
+  - image_path: /assets/images/Software_logos/polar_enhanced_logo.webp
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) developed software. Polar Diagrams Dashboard Logo"
+    excerpt: "**polar-diagrams-dashboard** is an open-source dashboard  that leverages the polar-diagrams library and Plotly Dash to incorporate additional visualization techniques into the current solution. It implements the overview+detail and small-multiple visualization techniques to fully harness the capabilities of the polar-diagrams library. The dashboard also introduces a novel Cartesian-linking mechanism that connects polar and Cartesian views, enabling users to seamlessly relate detailed patterns to their corresponding polar summaries. The effectiveness of the overview+detail approach was evaluated and validated in a dedicated user study. [GitHub repository](https://github.com/AAnzel/Polar-Diagrams-Dashboard){:target='_blank'}."
+
+feature_row_11:
   - image_path: /assets/images/Software_logos/iCAN_logo.webp
     alt: "Aleksandar Anžel's (Aleksandar Anzel's) developed software. iCAN Logo"
     excerpt: "**iCAN** is an open-source command-line interface (CLI) tool that represents an extension of the CMANGOES CLI tool. iCAN enhances the algorithm for encoding organic molecules, allowing for a greater amount of information to be encoded in numerical or image formats. Additionally, it empowers users to interpret these encodings. The innovative interpretability feature enables users to readily identify patterns and detect recurring signals within the encoded data. [GitHub repository](https://github.com/ghattab/iCAN){:target='_blank'}."
-
-feature_row_11:
-  - image_path: /assets/images/Software_logos/polar_enhanced_logo.webp
-    alt: "Aleksandar Anžel's (Aleksandar Anzel's) developed software. Polar Diagrams Dashboard Logo"
-    excerpt: "**polar-diagrams-dashboard** is an open-source dashboard  that leverages the polar-diagrams library and Plotly Dash to incorporate additional visualization techniques into the current solution. It implements the overview+detail and small-multiple visualization techniques to fully harness the capabilities of the polar-diagrams library. [GitHub repository](https://github.com/AAnzel/Polar-Diagrams-Dashboard){:target='_blank'}."
 
 feature_row_10:
   - image_path: /assets/images/Software_logos/polar_diagrams_logo.webp
@@ -78,15 +78,45 @@ All of the projects presented here were completed by me or in a team for academi
 
 <br>
 
+2026
+{:.archive_subtitle_new}
 {% include feature_row id="feature_row_13" type="left_customized"%}
+
+2025
+{:.archive_subtitle_new}
+
 {% include feature_row id="feature_row_12" type="left_customized"%}
+
+2024
+{:.archive_subtitle_new}
+
 {% include feature_row id="feature_row_11" type="left_customized"%}
+
+2023
+{:.archive_subtitle_new}
+
 {% include feature_row id="feature_row_10" type="left_customized"%}
+
+2022
+{:.archive_subtitle_new}
+
 {% include feature_row id="feature_row_9" type="left_customized"%}
+
+2021
+{:.archive_subtitle_new}
+
 {% include feature_row id="feature_row_8" type="left_customized"%}
 {% include feature_row id="feature_row_7" type="left_customized"%}
+
+2020
+{:.archive_subtitle_new}
+
 {% include feature_row id="feature_row_6" type="left_customized"%}
 {% include feature_row id="feature_row_5" type="left_customized"%}
+
+2019
+{:.archive_subtitle_new}
+
 {% include feature_row id="feature_row_4" type="left_customized"%}
 {% include feature_row id="feature_row_3" type="left_customized"%}
 {% include feature_row id="feature_row_2" type="left_customized"%}
