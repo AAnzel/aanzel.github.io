@@ -17,7 +17,7 @@ header:
 [![HGT ensemble image]({{ site.url }}{{ site.baseurl }}/assets/images/Publication_images/hgt_ensemble.webp)](https://doi.org/10.1038/s41598-026-53037-x){:target="_blank" alt="Aleksandar Anžel's (Aleksandar Anzel's) research image. Evaluating ensemble learning approaches for horizontal gene transfer detection."}
 
 
-{% assign label-html = "Wijaya, A. J., **Anžel, A.**, & Hattab, G. (2026). *Evaluating ensemble learning approaches for horizontal gene transfer detection*. Scientific Reports, 16(1) [https://doi.org/10.1038/s41598-026-53037-x](https://doi.org/10.1038/s41598-026-53037-x){:target='_blank'}
+{% assign label-html = "Wijaya, A. J., **Anžel, A.**, & Hattab, G. (2026). *Evaluating ensemble learning approaches for horizontal gene transfer detection*. Scientific Reports, 16(1). [https://doi.org/10.1038/s41598-026-53037-x](https://doi.org/10.1038/s41598-026-53037-x){:target='_blank'}
 {:.small-text}" | markdownify %}
 
 {% capture wijaya20265 %}
