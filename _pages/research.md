@@ -59,6 +59,13 @@ Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.749
 
 ## Teaching
 
+2026
+{:.archive_subtitle_new}
+
+* **Guest lecture** Advanced Data Visualization for Artificial Intelligence. Department of Mathematics and Computer Science, Freie Universität Berlin. Berlin, Germany. (presenter)
+{:.medium-text}
+
+
 2023
 {:.archive_subtitle_new}
 

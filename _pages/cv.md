@@ -11,7 +11,7 @@ classes: wide
   data="{{ site.url }}{{ site.baseurl }}/assets/documents/Aleksandar_Anžel_CV.pdf"
   type="application/pdf"
   width="100%"
-  height="100">
+  height="150">
   <p>
     If you cannot see the CV,
     <a href="{{ site.url }}{{ site.baseurl }}{% link /assets/documents/Aleksandar_Anžel_CV.pdf %}" target="_blank" rel="noopener">
