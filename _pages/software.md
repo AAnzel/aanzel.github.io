@@ -5,6 +5,12 @@ layout: single
 classes: wide
 author_profile: true
 
+feature_row_14:
+  - image_path: /assets/images/Software_logos/ubiq_logo.webp
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) developed software. UBIQ Logo"
+    excerpt: "**UbiQ** is an integrated open-source visual analytical application that enables the dynamic assessment and structural decomposition of Explainable AI (XAI) reliability across both tabular and visual domains. Comprising the UbiQTree and UbiQVision modules, it embeds evidence theory to quantify epistemic and aleatoric uncertainties in SHAP-derived feature attributions, transforming explainability from a post-hoc consideration into a foundational driver of reliability. [GitHub repository 1](https://github.com/dubeyakshat07/UBiQTree){:target='_blank'}, [GitHub repository 2](https://github.com/dubeyakshat07/UbiQVision){:target='_blank'}."
+
+
 feature_row_13:
   - image_path: /assets/images/Software_logos/osi_logo.webp
     alt: "Aleksandar Anžel's (Aleksandar Anzel's) developed software. OSI Logo"
@@ -80,6 +86,7 @@ All of the projects presented here were completed by me or in a team for academi
 
 2026
 {:.archive_subtitle_new}
+{% include feature_row id="feature_row_14" type="left_customized"%}
 {% include feature_row id="feature_row_13" type="left_customized"%}
 
 2025
