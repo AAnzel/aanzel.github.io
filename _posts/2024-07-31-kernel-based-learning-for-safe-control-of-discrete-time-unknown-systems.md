@@ -32,7 +32,7 @@ header:
   keywords={Adaptation models;Uncertainty;Trajectory tracking;Measurement uncertainty;Observers;Control systems;Numerical simulation;Learning-based control;kernel ridge regression;discrete-time systems;high-order systems;state observer},
   doi={10.23919/CCC63176.2024.10662288},
   ISSN={1934-1768},
-  month={July},}
+  month={07},}
 ```
 {% endcapture %}
 

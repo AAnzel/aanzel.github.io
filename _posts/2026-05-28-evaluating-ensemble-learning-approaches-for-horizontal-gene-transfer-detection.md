@@ -29,7 +29,7 @@ header:
   title={Evaluating ensemble learning approaches for horizontal gene transfer detection},
   journal={Scientific Reports},
   year={2026},
-  month={May},
+  month={05},
   day={28},
   volume={16},
   number={1},

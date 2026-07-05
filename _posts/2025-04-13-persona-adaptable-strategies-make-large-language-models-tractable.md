@@ -24,7 +24,7 @@ header:
 {% capture hattab2025 %}
 ```bibtex
 @inproceedings{10.1145/3711542.3711581,
-author = {Hattab, Georges and An\v{z}el, Aleksandar and Dubey, Akshat and Ezekannagha, Chisom and Yang, Zewen and undefinedlgen, Bahar},
+author = {Hattab, Georges and An\v{z}el, Aleksandar and Dubey, Akshat and Ezekannagha, Chisom and Yang, Zewen and \.{I}}lgen, Bahar},
 title = {Persona Adaptable Strategies Make Large Language Models Tractable},
 year = {2025},
 isbn = {9798400717383},
