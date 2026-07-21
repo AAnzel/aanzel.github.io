@@ -21,7 +21,7 @@ header:
 ```bibtex
 @mastersthesis{anzel2020,
   author  = {An{\v{z}}el, Aleksandar},
-  title   = title={Determining protein N-glycosylation with machine learning methods},
+  title   = {Determining protein N-glycosylation with machine learning methods},
   school  = {Faculty of Mathematics, University of Belgrade},
   year    = {2020},
   type    = {Master's thesis},
