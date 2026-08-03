@@ -5,6 +5,12 @@ layout: single
 classes: wide
 author_profile: true
 
+feature_row_15:
+  - image_path: /assets/images/Software_logos/peptrix_logo.webp
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) developed software. PepTriX Logo"
+    excerpt: "**PepTriX** is an open-source multimodal peptide analytics framework that combines 1D sequence embeddings with 3D structural features via a graph attention network, enhanced by contrastive training and cross-modal co-attention for robust peptide classification. It delivers state-of-the-art performance on tasks such as toxicity and HIV inhibition prediction while generating biologically plausible, task-specific representations that reveal interpretable biophysical motifs behind model decisions, effectively bridging the gap between high-performing protein language models and domain-level understanding in peptide research. [GitHub repository](https://github.com/dubeyakshat07/PepTriX/){:target='_blank'}."
+
+
 feature_row_14:
   - image_path: /assets/images/Software_logos/ubiq_logo.webp
     alt: "Aleksandar Anžel's (Aleksandar Anzel's) developed software. UBIQ Logo"
@@ -86,6 +92,7 @@ All of the projects presented here were completed by me or in a team for academi
 
 2026
 {:.archive_subtitle_new}
+{% include feature_row id="feature_row_15" type="left_customized"%}
 {% include feature_row id="feature_row_14" type="left_customized"%}
 {% include feature_row id="feature_row_13" type="left_customized"%}
 
