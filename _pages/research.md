@@ -24,7 +24,7 @@ My main research thesis is that computer science methods will profoundly acceler
 {:.archive_subtitle_new}
 
 * Bioinformatics and Computational Biology Conference (BBCC 2025). Naples, Italy. (presenter)  
-Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.7490/f1000research.1120409.1){:target="_blank"}
+Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.7490/f1000research.1120409.1)
 * Artificial Intelligence in Public Health Research. Berlin, Germany. (presenter)
 {:.medium-text}
 
@@ -91,7 +91,7 @@ Slides: [https://doi.org/10.7490/f1000research.1120409.1](https://doi.org/10.749
 
 ## Scientific Committees and Societies
 
-* [German Alliance for Global Health Research (GLOHRA)](https://globalhealth.de/index.html){:target="_blank"}. Secretariat c/o Charité Universitätsmedizin Berlin Charitéplatz 1, 10117 Berlin, Germany.
-* [Serbian Society for Bioinformatics and Computational Biology (BiRBi)](http://birbi.matf.bg.ac.rs/index.php/en/birbi-en/){:target="_blank"}. Faculty of Mathematics, University of Belgrade, Studentski trg 16, 11000 Belgrade.
-* [The Data Visualization Society (DVS)](https://www.datavisualizationsociety.org/){:target="_blank"}, EIN 84-1923759. 241 G St NW, Washington, DC 20001, USA.
+* [German Alliance for Global Health Research (GLOHRA)](https://globalhealth.de/index.html). Secretariat c/o Charité Universitätsmedizin Berlin Charitéplatz 1, 10117 Berlin, Germany.
+* [Serbian Society for Bioinformatics and Computational Biology (BiRBi)](http://birbi.matf.bg.ac.rs/index.php/en/birbi-en/). Faculty of Mathematics, University of Belgrade, Studentski trg 16, 11000 Belgrade.
+* [The Data Visualization Society (DVS)](https://www.datavisualizationsociety.org/), EIN 84-1923759. 241 G St NW, Washington, DC 20001, USA.
 {:.medium-text}
