@@ -20,6 +20,13 @@ My main research thesis is that computer science methods will profoundly acceler
 
 ## Selected events
 
+
+2026
+{:.archive_subtitle_new}
+
+* The German Conference on Bioinformatics (GCB2026). Saarbrücken, Germany. (presenter)
+{:.medium-text}
+
 2025
 {:.archive_subtitle_new}
 
