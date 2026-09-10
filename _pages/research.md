@@ -25,6 +25,7 @@ My main research thesis is that computer science methods will profoundly acceler
 {:.archive_subtitle_new}
 
 * The German Conference on Bioinformatics (GCB2026). Saarbrücken, Germany. (presenter)
+* Artificial Intelligence in Public Health Research. Berlin, Germany. (organizer, attendee)
 {:.medium-text}
 
 2025
