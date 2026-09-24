@@ -18,11 +18,11 @@ author_profile: true
 **Role**: Principal Investigator (PI), together with [Nevena Ćirić](https://poincare.matf.bg.ac.rs/~nevena.ciric/)  
 **Title**: _Molecular Embeddings via Low-Distortions Framework for Antimicrobial Resistance (MELD4AMR)_  
 **Funder**: [Federal Ministry of Research, Technology and Space (BMFTR)](https://www.bmftr.bund.de/EN/Home/home_node.html)  
-**Grant ID**: IB-EUROPA  
+**Grant ID**: 01DS26014  
 **Amount**: €300,000 total funding  
 **Host Institution**: [Robert Koch Institute](https://www.rki.de/EN/Home/home_node.html)  
 **Collaborating Institutions**: [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html), [Faculty of Mathematics, University of Belgrade](http://www.matf.bg.ac.rs/eng/), [Genial](https://genial.rs/)  
-**Period**: October 2026 -- October 2029
+**Period**: November 2026 -- November 2029
 {: .notice--primary .medium-text}
 
 ---
