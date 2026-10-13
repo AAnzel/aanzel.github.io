@@ -22,11 +22,11 @@ author_profile: true
 **Amount**: €300,000 total funding  
 **Host Institution**: [Robert Koch Institute](https://www.rki.de/EN/Home/home_node.html)  
 **Collaborating Institutions**: [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html), [Faculty of Mathematics, University of Belgrade](http://www.matf.bg.ac.rs/eng/), [Genial](https://genial.rs/)  
-**Period**: November 2026 -- November 2029
+**Period**: November 2026 -- November 2029  
 **Website**: [https://meld4amr.github.io/
-](https://meld4amr.github.io/){:target='_blank'}
+](https://meld4amr.github.io/){:target='_blank'}  
 **Software Repository**: [https://github.com/MELD4AMR/
-](https://github.com/MELD4AMR/){:target='_blank'}
+](https://github.com/MELD4AMR/){:target='_blank'}  
 {: .notice--primary .medium-text}
 
 ---
