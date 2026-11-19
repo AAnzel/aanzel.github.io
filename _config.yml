@@ -307,3 +307,5 @@ defaults:
 
 after_footer_scripts:
  - /assets/js/dark-mode.js # Added by Aleksandar for the dark mode
+
+future: false # Added by Aleksandar to check draft posts
