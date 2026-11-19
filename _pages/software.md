@@ -96,7 +96,7 @@ All of the projects presented here were completed by me or in a team for academi
 
 <br>
 
-2026
+2027
 {:.archive_subtitle_new}
 
 {% include feature_row id="feature_row_16" type="left_customized"%}
