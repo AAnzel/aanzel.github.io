@@ -5,6 +5,12 @@ layout: single
 classes: wide
 author_profile: true
 
+feature_row_16:
+  - image_path: /assets/images/Software_logos/unacorm_logo.webp
+    alt: "Aleksandar Anžel's (Aleksandar Anzel's) developed software. UNACROM Logo"
+    excerpt: "**UNACROM** is an open-source, modular benchmarking platform that enables standardized, reproducible evaluation of DNA data storage codecs. Integrating state-of-the-art and classical encoding methods, it systematically assesses encoding and decoding throughput, computational efficiency, error correction performance, and cost efficiency in alignment with DNA Data Storage Alliance standards. Through automated benchmarking, extensible integrations, and comprehensive visual and tabular reporting, it supports evidence-based codec selection and advances the development of reliable, scalable DNA-based archival storage systems. [GitHub repository](https://github.com/AAnzel/UNACORM){:target='_blank'}."
+
+
 feature_row_15:
   - image_path: /assets/images/Software_logos/peptrix_logo.webp
     alt: "Aleksandar Anžel's (Aleksandar Anzel's) developed software. PepTriX Logo"
@@ -92,6 +98,13 @@ All of the projects presented here were completed by me or in a team for academi
 
 2026
 {:.archive_subtitle_new}
+
+{% include feature_row id="feature_row_16" type="left_customized"%}
+
+
+2026
+{:.archive_subtitle_new}
+
 {% include feature_row id="feature_row_15" type="left_customized"%}
 {% include feature_row id="feature_row_14" type="left_customized"%}
 {% include feature_row id="feature_row_13" type="left_customized"%}
